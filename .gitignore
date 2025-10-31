@@ -6,7 +6,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,venv,pydev,linux,macos,flask,dotenv,django,direnv,python,windows,virtualenv,pycharm+all,visualstudio,jupyternotebooks,visualstudiocode,data
 
 ### Data ###
-*.csv
 *.dat
 *.efx
 *.gbr
