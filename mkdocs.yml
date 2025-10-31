@@ -1,0 +1,71 @@
+site_name: SynPath - Decisions
+site_description: Initial Materials for SynPath Decisions Exploration Hack
+repo_url: https://github.com/nhsengland/SynPath_Decisions
+repo_name: nhsengland/SynPath_Decisions
+edit_uri: edit/main/docs/
+
+nav:
+    - Home: index.md
+
+theme:
+  logo: assets/NHS.svg
+  favicon: assets/NHS.svg
+  name: material
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: light blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.footer
+    - content.action.view
+    - content.action.edit
+    - content.code.copy
+  icon:
+    edit: material/pencil
+    view: material/eye
+
+extra_css:
+  - css/style.css
+  - css/mkdocstrings.css
+
+plugins:
+  - search
+  - autorefs
+  - mkdocstrings
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+extra:
+  generator: false
