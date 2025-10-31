@@ -1,0 +1,201 @@
+pseudo_patient_id,age,sex,Complexity,Acuity,Primary Diagnosis Summary,Speciality,Vitals Trend,Waiting Time (days),Time since Admission (days),nextAction,blocker,Discharge Dependence
+SP0701,63,F,1.18,4,N80-N98,General Internal Medicine,Improving,9,0,Diagnostics/Investigation,No Blocker,Low
+SP0702,56,M,1.24,2,D10-D36,General Internal Medicine,Improving,2,1,Treatment,No Blocker,High
+SP0703,73,M,1.41,5,M00-M25,Trauma and Orthopaedics,Improving,443,0,Treatment,Theatre slot availability,Low
+SP0704,15,M,1.47,3,R50-R69,Geriatric Medicine,Improving,12,0,Diagnostics/Investigation,No Blocker,High
+SP0705,96,F,0.65,1,D60-D64,General Internal Medicine,Stable,6,2,Discharge,No Blocker,Low
+SP0706,22,F,1.02,5,R10-R19,General Internal Medicine,Improving,26,2,Treatment,No Blocker,Low
+SP0707,77,M,0.78,3,K20-K31,Gastronenterology,Stable,2,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0708,73,F,1.17,1,R00-R09,General Internal Medicine,Improving,70,1,Discharge,Awaiting Social Care,High
+SP0709,44,M,1.1,4,K90-K93,Gastronenterology,Improving,23,5,Diagnostics/Investigation,Staff Availability,Low
+SP0710,2,M,1.24,3,R20-R23,General Internal Medicine,Improving,10,0,Treatment,Theatre slot availability,High
+SP0711,44,F,1.14,2,K80-K87,Gastronenterology,Stable,9,0,Diagnostics/Investigation,No Blocker,Low
+SP0712,49,F,1.06,5,K55-K64,Gastronenterology,Improving,23,0,Diagnostics/Investigation,No Blocker,Low
+SP0713,71,M,0.86,1,C76-C80,General Internal Medicine,Improving,49,1,Diagnostics/Investigation,No Blocker,High
+SP0714,79,M,1.26,5,R00-R09,General Internal Medicine,Improving,25,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0715,86,M,0.78,4,N17-N19,General Internal Medicine,Improving,65,1,Treatment,Theatre slot availability,High
+SP0716,76,F,0.84,2,C50,General Internal Medicine,Stable,24,3,Review,No Blocker,Low
+SP0717,73,F,0.95,5,H25-H28,Ophthalmology,Improving,136,0,Treatment,Theatre slot availability,Low
+SP0718,78,M,0.74,2,D60-D64,General Internal Medicine,Improving,16,2,Review,Staff Availability,Low
+SP0719,41,M,1.34,4,I70-I79,Geriatric Medicine,Improving,39,14,Discharge,Awaiting Social Care,High
+SP0720,59,M,0.68,1,M00-M25,Trauma and Orthopaedics,Improving,331,0,Diagnostics/Investigation,No Blocker,Low
+SP0721,82,F,1.26,4,N17-N19,General Internal Medicine,Stable,168,7,Discharge,No Blocker,Low
+SP0722,68,M,1.21,5,R50-R69,Geriatric Medicine,Improving,64,0,Treatment,No Blocker,Low
+SP0723,83,F,1.45,3,K20-K31,Gastronenterology,Improving,13,1,Assessment,Bed Availability,Low
+SP0724,80,F,0.96,3,S00-S09,Trauma and Orthopaedics,Improving,9,0,Review,Awaiting Test Results,High
+SP0725,37,F,0.91,3,N80-N98,General Internal Medicine,Stable,19,1,Discharge,No Blocker,Low
+SP0726,56,F,0.75,3,T80-T88,Trauma and Orthopaedics,Stable,10,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0727,11,F,0.56,5,Z30-Z39,General Internal Medicine,Improving,101,1,Treatment,No Blocker,High
+SP0728,73,F,1.36,2,R00-R09,General Internal Medicine,Stable,54,2,Discharge,Staff Availability,Low
+SP0729,33,F,0.66,3,O30-O48,General Internal Medicine,Improving,10,0,Treatment,No Blocker,Low
+SP0730,87,M,0.98,4,R40-R46,General Internal Medicine,Improving,11,1,Discharge,Staff Availability,Low
+SP0731,66,F,0.85,4,I60-I69,Geriatric Medicine,Stable,1,3,Treatment,Theatre slot availability,High
+SP0732,44,F,1.07,4,R00-R09,General Internal Medicine,Improving,90,0,Diagnostics/Investigation,No Blocker,Low
+SP0733,61,F,1.42,4,I30-I52,Geriatric Medicine,Improving,276,1,Assessment,No Blocker,Low
+SP0734,44,F,0.65,1,N80-N98,General Internal Medicine,Improving,63,1,Discharge,No Blocker,Low
+SP0735,79,F,1.23,2,M00-M25,Trauma and Orthopaedics,Stable,148,3,Discharge,Staff Availability,Low
+SP0736,60,M,1.13,4,C64-C68,General Internal Medicine,Improving,239,0,Diagnostics/Investigation,No Blocker,Low
+SP0737,57,M,1.2,5,C81-C96,General Internal Medicine,Improving,21,3,Review,Awaiting Test Results,Low
+SP0738,83,F,0.72,5,K80-K87,Gastronenterology,Improving,17,2,Diagnostics/Investigation,Staff Availability,Low
+SP0739,23,F,1.1,5,R10-R19,General Internal Medicine,Stable,61,0,Treatment,Theatre slot availability,Low
+SP0740,84,F,1.26,1,M80-M94,Trauma and Orthopaedics,Stable,39,0,Diagnostics/Investigation,Staff Availability,Low
+SP0741,17,F,0.95,1,K00-K14,Gastronenterology,Improving,43,2,Review,Staff Availability,Low
+SP0742,94,M,1,3,J09-J18,General Internal Medicine,Improving,1,2,Treatment,No Blocker,Low
+SP0743,1,M,1.08,5,R10-R19,General Internal Medicine,Improving,15,1,Discharge,Awaiting Social Care,High
+SP0744,70,M,0.9,5,C15-C26,General Internal Medicine,Stable,41,1,Assessment,No Blocker,Low
+SP0745,69,F,0.57,3,G50-G59,General Internal Medicine,Improving,37,3,Diagnostics/Investigation,Staff Availability,Low
+SP0746,77,F,0.72,5,D10-D36,General Internal Medicine,Stable,61,2,Review,Awaiting Test Results,High
+SP0747,37,F,1.38,1,A00-A09,General Internal Medicine,Improving,8,0,Diagnostics/Investigation,No Blocker,Low
+SP0748,50,F,1.04,5,H25-H28,Ophthalmology,Stable,60,0,Diagnostics/Investigation,No Blocker,Low
+SP0749,59,F,1.33,3,M00-M25,Trauma and Orthopaedics,Improving,28,0,Diagnostics/Investigation,No Blocker,Low
+SP0750,60,F,1.34,3,I20-I25,Geriatric Medicine,Improving,42,2,Discharge,Staff Availability,Low
+SP0751,89,F,1.37,3,S00-S09,Trauma and Orthopaedics,Stable,22,0,Treatment,No Blocker,Low
+SP0752,16,F,0.66,5,P20-P29,Paediatrics,Stable,8,0,Assessment,Bed Availability,Low
+SP0753,16,F,0.73,5,J00-J06,General Internal Medicine,Improving,23,1,Diagnostics/Investigation,Radiology Capacity,Low
+SP0754,83,M,1.41,2,J40-J47,General Internal Medicine,Improving,12,0,Assessment,No Blocker,High
+SP0755,11,F,1.36,4,Z30-Z39,General Internal Medicine,Improving,133,0,Treatment,Theatre slot availability,Low
+SP0756,57,M,1.34,3,I60-I69,Geriatric Medicine,Improving,142,1,Discharge,No Blocker,Low
+SP0757,83,M,1.17,3,H25-H28,Ophthalmology,Improving,64,0,Diagnostics/Investigation,No Blocker,High
+SP0758,8,M,1.26,3,R40-R46,General Internal Medicine,Improving,10,1,Treatment,Theatre slot availability,High
+SP0759,99,M,0.98,3,A30-A49,General Internal Medicine,Improving,11,0,Treatment,Theatre slot availability,Low
+SP0760,28,F,0.83,2,Z30-Z39,General Internal Medicine,Improving,34,0,Review,Awaiting Test Results,Low
+SP0761,76,M,1.03,4,C45-C49,General Internal Medicine,Improving,40,1,Discharge,Staff Availability,Low
+SP0762,65,F,0.9,3,K55-K64,Gastronenterology,Improving,39,0,Diagnostics/Investigation,No Blocker,Low
+SP0763,80,M,1.04,5,G40-G47,General Internal Medicine,Stable,211,0,Diagnostics/Investigation,No Blocker,High
+SP0764,63,F,0.86,1,C50,General Internal Medicine,Improving,81,0,Assessment,No Blocker,Low
+SP0765,70,M,1.24,3,N30-N39,General Internal Medicine,Improving,5,0,Diagnostics/Investigation,No Blocker,Low
+SP0766,70,M,0.95,3,H25-H28,Ophthalmology,Improving,103,0,Treatment,No Blocker,High
+SP0767,53,M,0.92,5,S90-S99,Trauma and Orthopaedics,Stable,0,2,Diagnostics/Investigation,Radiology Capacity,Low
+SP0768,77,M,0.89,1,C64-C68,General Internal Medicine,Deteriorating,17,1,Treatment,Theatre slot availability,High
+SP0769,39,F,1.45,5,H25-H28,Ophthalmology,Stable,20,1,Discharge,No Blocker,Low
+SP0770,70,M,1.23,1,J09-J18,General Internal Medicine,Improving,2,45,Discharge,Awaiting Social Care,High
+SP0771,60,M,1.05,3,D50-D53,General Internal Medicine,Improving,15,2,Diagnostics/Investigation,Staff Availability,Low
+SP0772,79,M,1.11,1,C64-C68,General Internal Medicine,Stable,7,0,Treatment,No Blocker,Low
+SP0773,83,F,0.78,2,C76-C80,General Internal Medicine,Improving,6,10,Diagnostics/Investigation,No Blocker,Low
+SP0774,27,M,1.27,5,R10-R19,General Internal Medicine,Stable,70,0,Review,No Blocker,Low
+SP0775,21,M,1.18,2,N10-N16,General Internal Medicine,Stable,123,1,Discharge,No Blocker,Low
+SP0776,68,M,1.19,5,J40-J47,General Internal Medicine,Stable,357,5,Treatment,No Blocker,Low
+SP0777,90,M,1.18,3,F00-F09,Geriatric Medicine,Improving,8,1,Assessment,No Blocker,Low
+SP0778,49,F,0.93,5,K50-K52,Gastronenterology,Improving,3,5,Treatment,No Blocker,Low
+SP0779,64,M,1.29,3,L80-L99,General Internal Medicine,Improving,217,0,Treatment,Theatre slot availability,High
+SP0780,74,F,1.43,4,H25-H28,Ophthalmology,Stable,126,1,Discharge,Staff Availability,Low
+SP0781,16,M,0.61,4,R30-R39,General Internal Medicine,Improving,70,1,Diagnostics/Investigation,Radiology Capacity,High
+SP0782,90,F,1.19,3,S70-S79,Trauma and Orthopaedics,Improving,190,5,Treatment,Staff Availability,High
+SP0783,71,F,1.02,2,G40-G47,General Internal Medicine,Improving,143,0,Assessment,Bed Availability,Low
+SP0784,65,M,0.93,1,T80-T88,Trauma and Orthopaedics,Deteriorating,144,0,Diagnostics/Investigation,Staff Availability,Low
+SP0785,20,F,1.06,1,Z00-Z13,General Internal Medicine,Stable,70,1,Discharge,No Blocker,Low
+SP0786,47,M,1.13,2,C81-C96,General Internal Medicine,Improving,0,46,Discharge,No Blocker,Low
+SP0787,12,M,1.29,4,Q38-Q45,Paediatrics,Improving,41,1,Assessment,No Blocker,High
+SP0788,70,F,1.19,4,R00-R09,General Internal Medicine,Stable,24,0,Treatment,No Blocker,High
+SP0789,74,F,1.08,1,C30-C39,General Internal Medicine,Improving,14,1,Treatment,No Blocker,Low
+SP0790,82,M,0.75,4,I05-I09,Geriatric Medicine,Improving,29,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0791,76,F,0.58,5,K55-K64,Gastronenterology,Improving,17,1,Discharge,No Blocker,Low
+SP0792,22,F,1.02,3,O30-O48,General Internal Medicine,Improving,2,0,Diagnostics/Investigation,No Blocker,High
+SP0793,81,F,0.98,1,K55-K64,Gastronenterology,Improving,53,1,Treatment,Staff Availability,Low
+SP0794,31,F,0.94,5,O30-O48,General Internal Medicine,Improving,14,0,Review,Awaiting Test Results,Low
+SP0795,62,F,1.32,4,R00-R09,General Internal Medicine,Improving,7,1,Diagnostics/Investigation,No Blocker,Low
+SP0796,9,M,0.52,3,R70-R79,General Internal Medicine,Improving,27,1,Discharge,Awaiting Social Care,High
+SP0797,41,M,0.92,1,G40-G47,General Internal Medicine,Improving,42,19,Treatment,No Blocker,High
+SP0798,35,F,0.54,4,K80-K87,Gastronenterology,Improving,22,1,Assessment,No Blocker,High
+SP0799,59,F,0.69,3,D10-D36,General Internal Medicine,Improving,27,3,Discharge,No Blocker,Low
+SP0800,50,F,0.78,5,N80-N98,General Internal Medicine,Stable,20,1,Treatment,No Blocker,Low
+SP0801,96,F,1.39,3,D50-D53,General Internal Medicine,Improving,11,1,Review,Staff Availability,High
+SP0802,69,F,1.49,3,H30-H36,Ophthalmology,Improving,15,1,Review,Staff Availability,Low
+SP0803,73,F,1.49,5,M00-M25,Trauma and Orthopaedics,Improving,35,3,Discharge,Staff Availability,Low
+SP0804,29,F,0.84,4,L00-L08,General Internal Medicine,Stable,1,0,Review,No Blocker,Low
+SP0805,28,M,1.29,1,M00-M25,Trauma and Orthopaedics,Improving,55,0,Review,No Blocker,Low
+SP0806,17,F,0.52,5,D50-D53,General Internal Medicine,Stable,19,1,Diagnostics/Investigation,No Blocker,High
+SP0807,73,M,1.23,4,I80-I89,Geriatric Medicine,Improving,26,2,Treatment,Theatre slot availability,Low
+SP0808,2,F,0.84,2,K00-K14,Gastronenterology,Stable,214,1,Discharge,No Blocker,Low
+SP0809,74,F,0.86,4,N30-N39,General Internal Medicine,Stable,12,0,Review,Awaiting Test Results,High
+SP0810,67,M,1.42,1,J40-J47,General Internal Medicine,Stable,2,2,Diagnostics/Investigation,No Blocker,Low
+SP0811,28,M,0.86,2,Z30-Z39,General Internal Medicine,Improving,67,1,Diagnostics/Investigation,No Blocker,High
+SP0812,67,M,1.09,2,K50-K52,Gastronenterology,Improving,10,4,Discharge,Awaiting Social Care,High
+SP0813,84,F,0.85,3,N30-N39,General Internal Medicine,Improving,6,6,Discharge,Awaiting Social Care,High
+SP0814,4,F,1.43,4,K50-K52,Gastronenterology,Deteriorating,33,2,Discharge,Staff Availability,Low
+SP0815,55,M,1.39,5,C15-C26,General Internal Medicine,Stable,11,40,Diagnostics/Investigation,Radiology Capacity,Low
+SP0816,13,F,0.62,3,O30-O48,General Internal Medicine,Stable,5,0,Diagnostics/Investigation,Staff Availability,Low
+SP0817,38,M,1.23,5,N30-N39,General Internal Medicine,Improving,93,0,Diagnostics/Investigation,Staff Availability,High
+SP0818,40,M,0.65,4,K00-K14,Gastronenterology,Stable,42,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0819,30,F,0.58,2,O20-O29,General Internal Medicine,Stable,4,1,Discharge,Staff Availability,Low
+SP0820,78,F,1.11,4,M00-M25,Trauma and Orthopaedics,Improving,231,0,Treatment,No Blocker,Low
+SP0821,84,M,1.36,5,H25-H28,Ophthalmology,Deteriorating,87,0,Treatment,No Blocker,Low
+SP0822,75,F,1.04,4,N10-N16,General Internal Medicine,Improving,16,0,Treatment,No Blocker,Low
+SP0823,4,F,0.61,2,Q20-Q28,Paediatrics,Improving,159,1,Diagnostics/Investigation,No Blocker,Low
+SP0824,54,F,0.93,5,C81-C96,General Internal Medicine,Improving,5,0,Review,No Blocker,Low
+SP0825,32,M,0.97,5,E70-E90,General Internal Medicine,Stable,3,3,Discharge,Staff Availability,Low
+SP0826,29,M,1.39,4,L60-L75,General Internal Medicine,Improving,25,0,Treatment,No Blocker,Low
+SP0827,64,M,0.82,4,H25-H28,Ophthalmology,Stable,10,1,Discharge,Staff Availability,Low
+SP0828,80,F,1.43,1,D50-D53,General Internal Medicine,Improving,110,2,Discharge,Awaiting Social Care,High
+SP0829,29,F,1.2,1,O20-O29,General Internal Medicine,Stable,2,1,Discharge,No Blocker,Low
+SP0830,50,F,0.65,1,K35-K38,Gastronenterology,Improving,48,1,Discharge,Awaiting Social Care,High
+SP0831,81,M,0.53,4,C81-C96,General Internal Medicine,Improving,120,3,Discharge,No Blocker,Low
+SP0832,3,F,1.46,1,K20-K31,Gastronenterology,Stable,15,4,Treatment,Theatre slot availability,Low
+SP0833,41,F,0.77,2,K55-K64,Gastronenterology,Improving,6,1,Review,Awaiting Test Results,Low
+SP0834,13,F,0.5,1,P50-P61,Paediatrics,Stable,3,1,Review,Staff Availability,Low
+SP0835,64,F,1.47,4,A00-A09,General Internal Medicine,Improving,5,24,Discharge,Staff Availability,Low
+SP0836,76,M,1.14,3,K55-K64,Gastronenterology,Improving,150,1,Discharge,No Blocker,Low
+SP0837,80,F,0.75,2,C81-C96,General Internal Medicine,Improving,19,5,Treatment,Theatre slot availability,Low
+SP0838,31,F,1.49,5,K00-K14,Gastronenterology,Stable,63,1,Assessment,No Blocker,High
+SP0839,81,M,1,1,E70-E90,General Internal Medicine,Improving,18,1,Discharge,No Blocker,Low
+SP0840,79,M,0.77,1,E70-E90,General Internal Medicine,Improving,13,3,Treatment,Theatre slot availability,High
+SP0841,25,M,1.25,2,R30-R39,General Internal Medicine,Improving,22,0,Treatment,No Blocker,Low
+SP0842,34,F,0.93,4,Q38-Q45,Paediatrics,Stable,7,0,Treatment,Staff Availability,Low
+SP0843,97,F,0.77,1,I30-I52,Geriatric Medicine,Improving,490,5,Discharge,Staff Availability,Low
+SP0844,35,M,0.69,2,N20-N23,General Internal Medicine,Improving,135,0,Treatment,Theatre slot availability,Low
+SP0845,87,M,0.54,1,R50-R69,Geriatric Medicine,Improving,32,1,Review,No Blocker,High
+SP0846,93,F,0.83,3,M00-M25,Trauma and Orthopaedics,Improving,49,0,Diagnostics/Investigation,No Blocker,High
+SP0847,38,M,1.41,2,Z30-Z39,General Internal Medicine,Improving,19,0,Treatment,Theatre slot availability,High
+SP0848,58,F,1.15,4,D10-D36,General Internal Medicine,Stable,6,0,Review,No Blocker,Low
+SP0849,48,M,0.84,1,I70-I79,Geriatric Medicine,Stable,21,2,Discharge,No Blocker,Low
+SP0850,50,F,0.86,2,M60-M79,Trauma and Orthopaedics,Stable,18,0,Review,No Blocker,High
+SP0851,66,M,0.99,3,G60-G64,General Internal Medicine,Stable,202,7,Discharge,Awaiting Social Care,High
+SP0852,66,M,0.71,2,H25-H28,Ophthalmology,Improving,34,1,Discharge,Staff Availability,Low
+SP0853,50,F,1.39,4,K55-K64,Gastronenterology,Deteriorating,7,1,Review,No Blocker,Low
+SP0854,61,F,0.83,3,D00-D09,General Internal Medicine,Improving,99,0,Treatment,No Blocker,Low
+SP0855,71,M,0.89,1,R50-R69,Geriatric Medicine,Improving,24,0,Review,Staff Availability,Low
+SP0856,64,M,0.66,3,N20-N23,General Internal Medicine,Stable,36,0,Treatment,No Blocker,Low
+SP0857,65,M,1.2,5,K50-K52,Gastronenterology,Improving,4,0,Review,Staff Availability,Low
+SP0858,26,F,1.43,4,N10-N16,General Internal Medicine,Improving,197,1,Review,Awaiting Test Results,High
+SP0859,76,F,1.16,5,E70-E90,General Internal Medicine,Stable,10,0,Assessment,No Blocker,Low
+SP0860,69,M,0.9,3,J09-J18,General Internal Medicine,Improving,2,2,Diagnostics/Investigation,No Blocker,Low
+SP0861,39,M,1.12,5,J30-J39,General Internal Medicine,Improving,77,0,Diagnostics/Investigation,Radiology Capacity,Low
+SP0862,55,F,0.57,3,R25-R29,General Internal Medicine,Stable,4,1,Discharge,Awaiting Social Care,High
+SP0863,84,M,1.4,1,C15-C26,General Internal Medicine,Improving,73,17,Treatment,Staff Availability,High
+SP0864,40,M,1.08,5,K40-K46,Gastronenterology,Improving,99,1,Assessment,No Blocker,Low
+SP0865,82,M,1.36,3,L00-L08,General Internal Medicine,Improving,1,2,Discharge,Staff Availability,Low
+SP0866,77,F,1.24,2,D37-D48,General Internal Medicine,Stable,5,4,Discharge,No Blocker,Low
+SP0867,72,F,0.95,3,J09-J18,General Internal Medicine,Improving,21,1,Discharge,Awaiting Social Care,High
+SP0868,40,F,0.94,4,O60-O75,General Internal Medicine,Improving,27,1,Review,No Blocker,High
+SP0869,33,F,1.46,4,N80-N98,General Internal Medicine,Deteriorating,155,0,Treatment,Theatre slot availability,High
+SP0870,83,M,0.71,4,I30-I52,Geriatric Medicine,Improving,34,11,Diagnostics/Investigation,Staff Availability,Low
+SP0871,3,M,0.79,1,R70-R79,General Internal Medicine,Improving,30,0,Treatment,Staff Availability,Low
+SP0872,53,F,1.12,4,K70-K77,Gastronenterology,Improving,8,5,Treatment,Theatre slot availability,Low
+SP0873,5,F,0.63,2,O60-O75,General Internal Medicine,Improving,3,8,Discharge,No Blocker,Low
+SP0874,66,F,1.02,5,D10-D36,General Internal Medicine,Improving,4,0,Diagnostics/Investigation,Staff Availability,Low
+SP0875,46,F,1.3,2,E70-E90,General Internal Medicine,Improving,4,0,Treatment,No Blocker,Low
+SP0876,75,F,1.24,5,C15-C26,General Internal Medicine,Stable,12,4,Treatment,Staff Availability,High
+SP0877,47,F,0.65,5,K50-K52,Gastronenterology,Improving,4,8,Discharge,Awaiting Social Care,High
+SP0878,49,F,1.37,1,K55-K64,Gastronenterology,Improving,23,1,Discharge,Staff Availability,Low
+SP0879,47,M,1.05,3,K80-K87,Gastronenterology,Improving,133,1,Discharge,No Blocker,Low
+SP0880,55,M,1.47,4,Z00-Z13,General Internal Medicine,Improving,53,0,Treatment,Theatre slot availability,High
+SP0881,35,F,1.23,5,G35-G37,General Internal Medicine,Stable,130,96,Discharge,No Blocker,Low
+SP0882,22,F,1.36,2,O85-O92,General Internal Medicine,Improving,1,1,Discharge,Awaiting Social Care,High
+SP0883,41,F,0.61,2,L60-L75,General Internal Medicine,Stable,18,1,Discharge,Staff Availability,Low
+SP0884,37,F,1.47,5,K50-K52,Gastronenterology,Stable,95,1,Assessment,Bed Availability,High
+SP0885,52,F,1.47,4,N70-N77,General Internal Medicine,Improving,13,1,Discharge,No Blocker,Low
+SP0886,72,M,1.5,2,C30-C39,General Internal Medicine,Improving,5,12,Discharge,No Blocker,Low
+SP0887,47,M,0.92,1,K50-K52,Gastronenterology,Improving,12,1,Discharge,No Blocker,Low
+SP0888,34,F,1.08,5,K50-K52,Gastronenterology,Stable,3,1,Assessment,No Blocker,Low
+SP0889,41,M,0.57,1,C69-C72,General Internal Medicine,Stable,377,0,Diagnostics/Investigation,Staff Availability,Low
+SP0890,78,M,0.92,2,K55-K64,Gastronenterology,Improving,23,0,Review,Staff Availability,Low
+SP0891,51,F,0.97,3,J20-J22,General Internal Medicine,Improving,26,1,Assessment,No Blocker,Low
+SP0892,8,M,1.07,5,Z30-Z39,General Internal Medicine,Deteriorating,95,1,Discharge,Awaiting Social Care,High
+SP0893,99,F,1.43,1,K20-K31,Gastronenterology,Improving,58,0,Diagnostics/Investigation,No Blocker,Low
+SP0894,57,F,1.13,3,L50-L54,General Internal Medicine,Stable,13,1,Review,No Blocker,High
+SP0895,55,F,0.57,3,M00-M25,Trauma and Orthopaedics,Improving,128,1,Treatment,Theatre slot availability,High
+SP0896,25,M,0.87,5,Z70-Z76,General Internal Medicine,Stable,5,1,Treatment,Theatre slot availability,Low
+SP0897,80,M,0.57,4,A00-A09,General Internal Medicine,Improving,10,0,Diagnostics/Investigation,No Blocker,High
+SP0898,20,F,1.03,3,N70-N77,General Internal Medicine,Improving,34,0,Review,Awaiting Test Results,Low
+SP0899,68,F,0.58,4,K80-K87,Gastronenterology,Stable,18,5,Discharge,No Blocker,Low
+SP0900,8,M,0.61,5,Q20-Q28,Paediatrics,Improving,64,0,Treatment,No Blocker,High

@@ -1,0 +1,701 @@
+pseudo_patient_id,age,sex,Complexity,Acuity,Primary Diagnosis Summary,Speciality,Waiting Time (days),Length of Stay (days),Discharge Dependence
+SP0001,31,F,1.28,5,N80-N98,General Internal Medicine,219,1,High
+SP0002,80,M,1.22,3,S80-S89,Trauma and Orthopaedics,8,3,Low
+SP0003,67,F,0.67,3,H25-H28,Ophthalmology,47,1,High
+SP0004,63,F,0.72,2,G60-G64,General Internal Medicine,2,15,Low
+SP0005,41,F,1.11,4,K55-K64,Gastronenterology,154,9,High
+SP0006,90,F,0.99,3,S70-S79,Trauma and Orthopaedics,0,30,Low
+SP0007,37,F,0.59,2,R50-R69,Geriatric Medicine,265,6,High
+SP0008,63,M,1.26,1,K80-K87,Gastronenterology,331,3,Low
+SP0009,14,M,0.88,5,D60-D64,General Internal Medicine,650,1,High
+SP0010,0,M,1.15,5,C81-C96,General Internal Medicine,12,3,Low
+SP0011,65,F,1.48,3,K20-K31,Gastronenterology,91,1,Low
+SP0012,5,M,0.68,4,K20-K31,Gastronenterology,4,9,Low
+SP0013,61,M,0.93,5,T80-T88,Trauma and Orthopaedics,37,1,Low
+SP0014,62,F,1.49,5,C50,General Internal Medicine,158,1,Low
+SP0015,79,M,0.83,3,I20-I25,Geriatric Medicine,28,7,Low
+SP0016,75,F,1.16,5,R25-R29,General Internal Medicine,19,1,Low
+SP0017,58,F,1.47,2,R10-R19,General Internal Medicine,30,1,High
+SP0018,41,F,1.31,5,D10-D36,General Internal Medicine,17,1,High
+SP0019,39,F,0.99,5,K20-K31,Gastronenterology,18,1,Low
+SP0020,66,F,1,5,H25-H28,Ophthalmology,504,1,High
+SP0021,73,M,0.71,2,H25-H28,Ophthalmology,2,1,High
+SP0022,36,F,1.43,3,O60-O75,General Internal Medicine,5,3,Low
+SP0023,25,F,0.99,3,N80-N98,General Internal Medicine,89,1,Low
+SP0024,67,M,1.37,4,D65-D69,General Internal Medicine,736,1,High
+SP0025,0,F,1.32,3,Z00-Z13,General Internal Medicine,30,1,Low
+SP0026,69,M,0.58,4,S60-S69,Trauma and Orthopaedics,1,1,Low
+SP0027,52,F,0.96,3,R00-R09,General Internal Medicine,150,1,High
+SP0028,50,F,1.32,4,I80-I89,Geriatric Medicine,76,1,High
+SP0029,78,M,1.14,5,K50-K52,Gastronenterology,33,6,High
+SP0030,18,M,1.1,4,H60-H62,General Internal Medicine,44,1,Low
+SP0031,28,F,0.97,5,O94-O99,General Internal Medicine,19,1,Low
+SP0032,65,F,1.36,3,J40-J47,General Internal Medicine,77,2,Low
+SP0033,60,F,1.17,3,M40-M54,Trauma and Orthopaedics,102,31,High
+SP0034,61,M,0.66,3,C60-C63,General Internal Medicine,8,1,Low
+SP0035,86,F,1.05,3,J40-J47,General Internal Medicine,441,5,High
+SP0036,15,M,0.66,3,F40-F48,General Internal Medicine,40,1,Low
+SP0037,16,M,0.9,3,Q20-Q28,Paediatrics,31,1,Low
+SP0038,95,F,1.38,5,H25-H28,Ophthalmology,294,1,Low
+SP0039,83,M,0.67,2,I60-I69,Geriatric Medicine,35,6,Low
+SP0040,38,F,0.85,4,O20-O29,General Internal Medicine,0,1,Low
+SP0041,32,F,1.01,5,O30-O48,General Internal Medicine,30,1,High
+SP0042,89,M,0.99,2,I70-I79,Geriatric Medicine,8,4,Low
+SP0043,35,F,0.64,3,O00-O08,General Internal Medicine,1,1,Low
+SP0044,2,F,0.52,4,P70-P74,Paediatrics,15,1,Low
+SP0045,71,M,1.16,4,D37-D48,General Internal Medicine,5,2,Low
+SP0046,60,F,1.04,5,K55-K64,Gastronenterology,101,1,Low
+SP0047,4,F,1.39,3,J00-J06,General Internal Medicine,101,2,Low
+SP0048,49,M,0.89,5,F10-F19,General Internal Medicine,55,1,High
+SP0049,43,F,1.34,1,J00-J06,General Internal Medicine,111,1,Low
+SP0050,41,F,0.98,1,C51-C58,General Internal Medicine,32,2,High
+SP0051,66,F,1.1,4,C97-C97,General Internal Medicine,2,2,Low
+SP0052,44,M,1.07,1,D50-D53,General Internal Medicine,10,1,Low
+SP0053,53,F,0.57,5,R50-R69,Geriatric Medicine,5,4,Low
+SP0054,29,F,0.67,3,O20-O29,General Internal Medicine,1,1,Low
+SP0055,63,M,0.59,3,K20-K31,Gastronenterology,6,1,Low
+SP0056,77,M,1.38,4,K90-K93,Gastronenterology,31,12,Low
+SP0057,43,F,0.68,2,F10-F19,General Internal Medicine,42,3,High
+SP0058,6,F,1.34,2,Z30-Z39,General Internal Medicine,69,1,Low
+SP0059,70,M,1.21,3,C60-C63,General Internal Medicine,27,1,Low
+SP0060,39,F,1.28,3,R10-R19,General Internal Medicine,76,1,Low
+SP0061,68,F,1.26,3,D50-D53,General Internal Medicine,12,5,Low
+SP0062,42,F,1.17,5,R00-R09,General Internal Medicine,233,2,Low
+SP0063,59,M,1.4,3,C76-C80,General Internal Medicine,1,16,Low
+SP0064,61,M,0.8,2,K20-K31,Gastronenterology,8,2,Low
+SP0065,67,F,0.73,2,C15-C26,General Internal Medicine,23,8,Low
+SP0066,4,M,1.24,2,K00-K14,Gastronenterology,70,1,Low
+SP0067,79,F,0.7,3,J20-J22,General Internal Medicine,12,5,Low
+SP0068,63,F,0.98,3,D37-D48,General Internal Medicine,0,3,Low
+SP0069,76,F,0.8,3,A00-A09,General Internal Medicine,18,1,Low
+SP0070,12,M,1.45,5,U00-U49,General Internal Medicine,25,1,Low
+SP0071,67,F,0.89,4,S70-S79,Trauma and Orthopaedics,2,4,Low
+SP0072,76,M,1.21,5,I30-I52,Geriatric Medicine,104,1,Low
+SP0073,28,M,0.69,3,N40-N51,General Internal Medicine,174,1,High
+SP0074,71,F,0.53,2,Z00-Z13,General Internal Medicine,24,1,Low
+SP0075,26,M,1.43,5,T80-T88,Trauma and Orthopaedics,191,1,Low
+SP0076,58,M,0.9,1,M60-M79,Trauma and Orthopaedics,200,3,Low
+SP0077,82,M,0.71,3,M60-M79,Trauma and Orthopaedics,53,1,Low
+SP0078,71,F,1.21,2,J60-J70,General Internal Medicine,11,18,Low
+SP0079,47,F,1.41,4,N80-N98,General Internal Medicine,49,1,High
+SP0080,38,F,0.56,5,O30-O48,General Internal Medicine,8,1,Low
+SP0081,68,F,1.16,2,R50-R69,Geriatric Medicine,31,2,Low
+SP0082,17,F,1.39,3,R50-R69,Geriatric Medicine,13,2,Low
+SP0083,73,F,1.08,3,I70-I79,Geriatric Medicine,48,3,Low
+SP0084,74,F,1.42,5,R25-R29,General Internal Medicine,25,5,High
+SP0085,70,F,0.58,5,J09-J18,General Internal Medicine,7,1,High
+SP0086,13,M,0.71,5,C69-C72,General Internal Medicine,31,2,High
+SP0087,67,F,1.25,1,I70-I79,Geriatric Medicine,13,7,High
+SP0088,64,M,1.46,5,M60-M79,Trauma and Orthopaedics,72,1,Low
+SP0089,75,F,0.74,5,N80-N98,General Internal Medicine,21,1,Low
+SP0090,8,F,1.03,3,Z30-Z39,General Internal Medicine,42,1,Low
+SP0091,34,M,1.32,3,Z30-Z39,General Internal Medicine,111,1,High
+SP0092,70,F,0.99,2,H25-H28,Ophthalmology,58,1,Low
+SP0093,5,M,1,2,Z30-Z39,General Internal Medicine,130,1,Low
+SP0094,91,F,0.8,3,T80-T88,Trauma and Orthopaedics,57,1,Low
+SP0095,44,M,1.26,5,K50-K52,Gastronenterology,116,10,Low
+SP0096,66,F,1.4,4,I60-I69,Geriatric Medicine,8,5,Low
+SP0097,26,F,1.14,2,O30-O48,General Internal Medicine,11,1,Low
+SP0098,48,F,1.3,3,N10-N16,General Internal Medicine,65,2,Low
+SP0099,67,F,1.44,5,R00-R09,General Internal Medicine,60,2,Low
+SP0100,34,F,1.49,4,O80-O84,General Internal Medicine,21,1,Low
+SP0101,51,F,0.55,2,G35-G37,General Internal Medicine,9,1,High
+SP0102,40,F,1.4,5,R00-R09,General Internal Medicine,224,1,Low
+SP0103,58,F,1.08,5,K65-K67,Gastronenterology,201,15,Low
+SP0104,74,F,0.63,4,N25-N29,General Internal Medicine,67,1,Low
+SP0105,11,M,1.18,1,J40-J47,General Internal Medicine,9,10,Low
+SP0106,82,M,1.28,5,J20-J22,General Internal Medicine,16,12,Low
+SP0107,75,F,0.96,3,R40-R46,General Internal Medicine,104,1,High
+SP0108,64,M,1.08,5,C76-C80,General Internal Medicine,0,15,High
+SP0109,47,M,1.06,3,I80-I89,Geriatric Medicine,14,15,Low
+SP0110,55,F,0.79,2,H25-H28,Ophthalmology,4,1,Low
+SP0111,39,M,1.16,4,G50-G59,General Internal Medicine,135,1,Low
+SP0112,45,M,0.99,2,K20-K31,Gastronenterology,15,2,Low
+SP0113,80,F,0.57,2,J80-J84,General Internal Medicine,94,11,Low
+SP0114,39,M,1.25,1,S60-S69,Trauma and Orthopaedics,1,1,Low
+SP0115,24,F,0.7,3,O30-O48,General Internal Medicine,35,1,Low
+SP0116,37,F,0.91,4,K80-K87,Gastronenterology,133,7,High
+SP0117,61,M,0.71,5,J40-J47,General Internal Medicine,44,6,Low
+SP0118,56,F,0.55,1,R10-R19,General Internal Medicine,48,1,High
+SP0119,34,M,0.74,1,K55-K64,Gastronenterology,20,2,High
+SP0120,9,F,1.18,3,M60-M79,Trauma and Orthopaedics,27,4,Low
+SP0121,75,F,1.28,5,C15-C26,General Internal Medicine,5,1,Low
+SP0122,84,F,0.79,5,J09-J18,General Internal Medicine,0,2,Low
+SP0123,55,F,1.44,4,G90-G99,General Internal Medicine,78,1,High
+SP0124,51,F,0.97,5,D10-D36,General Internal Medicine,21,1,High
+SP0125,77,M,1.35,3,J40-J47,General Internal Medicine,38,2,Low
+SP0126,62,F,0.58,5,M00-M25,Trauma and Orthopaedics,110,1,Low
+SP0127,23,F,0.81,2,O00-O08,General Internal Medicine,5,1,Low
+SP0128,15,F,0.5,1,K35-K38,Gastronenterology,18,5,High
+SP0129,49,F,0.54,4,E00-E07,General Internal Medicine,42,4,Low
+SP0130,74,F,0.76,3,C81-C96,General Internal Medicine,3,1,High
+SP0131,7,F,1.18,3,Z30-Z39,General Internal Medicine,24,1,Low
+SP0132,4,M,0.57,4,Z30-Z39,General Internal Medicine,146,1,High
+SP0133,33,F,1.08,3,O60-O75,General Internal Medicine,4,8,High
+SP0134,77,M,0.67,1,K20-K31,Gastronenterology,133,8,High
+SP0135,70,M,1.46,4,C00-C14,General Internal Medicine,10,14,Low
+SP0136,35,M,1.03,4,G40-G47,General Internal Medicine,113,6,Low
+SP0137,32,M,0.77,2,S60-S69,Trauma and Orthopaedics,1,1,Low
+SP0138,51,F,1.18,2,K50-K52,Gastronenterology,546,8,High
+SP0139,77,M,0.56,2,K90-K93,Gastronenterology,50,1,Low
+SP0140,44,M,1.42,5,C81-C96,General Internal Medicine,10,3,Low
+SP0141,61,F,1.34,5,C97-C97,General Internal Medicine,33,4,Low
+SP0142,17,F,0.72,1,K55-K64,Gastronenterology,145,2,Low
+SP0143,58,M,0.83,3,M60-M79,Trauma and Orthopaedics,172,2,High
+SP0144,47,M,1.29,1,J09-J18,General Internal Medicine,1,10,Low
+SP0145,64,M,0.62,2,C60-C63,General Internal Medicine,18,1,High
+SP0146,16,F,1.27,1,Z30-Z39,General Internal Medicine,101,1,Low
+SP0147,33,F,1.21,2,L00-L08,General Internal Medicine,189,1,Low
+SP0148,67,F,0.89,4,K55-K64,Gastronenterology,230,1,High
+SP0149,49,F,1.02,4,D10-D36,General Internal Medicine,16,4,Low
+SP0150,71,F,0.81,5,J95-J99,General Internal Medicine,3,16,Low
+SP0151,51,F,1.25,5,H30-H36,Ophthalmology,150,2,Low
+SP0152,58,M,1.17,2,L00-L08,General Internal Medicine,15,1,Low
+SP0153,31,F,0.53,1,O30-O48,General Internal Medicine,14,1,Low
+SP0154,12,M,0.98,5,R70-R79,General Internal Medicine,83,1,High
+SP0155,93,F,0.71,4,A30-A49,General Internal Medicine,55,14,Low
+SP0156,72,F,1.4,1,K90-K93,Gastronenterology,10,5,Low
+SP0157,13,F,0.66,5,J30-J39,General Internal Medicine,41,3,Low
+SP0158,76,M,1.43,3,K55-K64,Gastronenterology,839,3,Low
+SP0159,73,M,0.94,1,I60-I69,Geriatric Medicine,6,4,Low
+SP0160,77,F,0.66,5,G50-G59,General Internal Medicine,60,1,Low
+SP0161,4,M,1.16,4,S50-S59,Trauma and Orthopaedics,1,1,Low
+SP0162,3,F,1.23,2,O30-O48,General Internal Medicine,42,1,Low
+SP0163,82,M,1.09,3,L55-L59,General Internal Medicine,101,3,High
+SP0164,69,F,1.3,2,C15-C26,General Internal Medicine,350,14,Low
+SP0165,74,F,0.76,5,M80-M94,Trauma and Orthopaedics,126,12,High
+SP0166,86,M,1.4,4,H00-H06,Ophthalmology,52,1,High
+SP0167,76,F,1.04,2,J09-J18,General Internal Medicine,5,4,High
+SP0168,17,M,1.28,4,Z30-Z39,General Internal Medicine,7,1,Low
+SP0169,66,F,0.76,2,N10-N16,General Internal Medicine,37,1,High
+SP0170,63,F,0.67,2,U00-U49,General Internal Medicine,0,2,Low
+SP0171,64,F,1.45,2,Z00-Z13,General Internal Medicine,97,1,High
+SP0172,89,M,1.46,1,R10-R19,General Internal Medicine,10,2,Low
+SP0173,76,M,0.78,5,D70-D77,General Internal Medicine,22,5,High
+SP0174,67,F,1.24,1,K55-K64,Gastronenterology,382,1,Low
+SP0175,26,F,1,5,D00-D09,General Internal Medicine,215,2,High
+SP0176,82,F,0.78,2,I60-I69,Geriatric Medicine,47,67,Low
+SP0177,25,F,0.56,2,S80-S89,Trauma and Orthopaedics,24,1,Low
+SP0178,68,F,0.94,2,K20-K31,Gastronenterology,17,1,Low
+SP0179,62,F,0.57,3,H25-H28,Ophthalmology,16,1,Low
+SP0180,79,F,0.9,2,A30-A49,General Internal Medicine,2,9,High
+SP0181,30,F,0.61,2,O00-O08,General Internal Medicine,2,1,Low
+SP0182,62,M,1.21,3,T80-T88,Trauma and Orthopaedics,46,1,Low
+SP0183,88,M,1.12,1,M60-M79,Trauma and Orthopaedics,282,1,High
+SP0184,94,F,1.14,2,J40-J47,General Internal Medicine,5,2,High
+SP0185,67,F,0.96,5,H25-H28,Ophthalmology,172,1,Low
+SP0186,51,F,0.8,5,K20-K31,Gastronenterology,265,1,Low
+SP0187,97,F,0.74,1,T80-T88,Trauma and Orthopaedics,25,11,High
+SP0188,24,M,1.16,5,J30-J39,General Internal Medicine,99,2,Low
+SP0189,55,F,1.02,2,M00-M25,Trauma and Orthopaedics,73,1,Low
+SP0190,29,M,0.63,4,R50-R69,Geriatric Medicine,15,9,Low
+SP0191,79,M,1.37,3,R50-R69,Geriatric Medicine,4,1,Low
+SP0192,66,M,1.25,5,C81-C96,General Internal Medicine,22,65,Low
+SP0193,81,M,1.01,4,K35-K38,Gastronenterology,15,2,Low
+SP0194,34,F,1.05,1,O60-O75,General Internal Medicine,6,7,High
+SP0195,40,M,1.23,5,K55-K64,Gastronenterology,65,1,Low
+SP0196,36,F,1.4,4,K20-K31,Gastronenterology,85,1,High
+SP0197,12,F,0.71,5,Z30-Z39,General Internal Medicine,23,1,Low
+SP0198,74,F,0.98,4,J09-J18,General Internal Medicine,6,15,Low
+SP0199,68,M,1.45,3,C00-C14,General Internal Medicine,7,13,Low
+SP0200,79,F,1.5,5,M30-M36,Trauma and Orthopaedics,114,1,High
+SP0201,77,F,1.48,3,C15-C26,General Internal Medicine,10,2,High
+SP0202,27,F,1.45,2,O10-O16,General Internal Medicine,2,1,Low
+SP0203,76,M,0.83,3,L00-L08,General Internal Medicine,4,4,Low
+SP0204,85,M,0.97,1,E70-E90,General Internal Medicine,0,2,Low
+SP0205,80,F,0.79,4,A00-A09,General Internal Medicine,13,1,High
+SP0206,5,F,0.93,3,A00-A09,General Internal Medicine,11,1,Low
+SP0207,31,M,1.2,3,K55-K64,Gastronenterology,170,3,High
+SP0208,48,M,1.45,1,L80-L99,General Internal Medicine,52,1,High
+SP0209,20,F,0.96,1,R00-R09,General Internal Medicine,171,2,Low
+SP0210,1,F,0.97,4,R10-R19,General Internal Medicine,11,1,Low
+SP0211,84,F,1.38,1,J20-J22,General Internal Medicine,19,1,Low
+SP0212,12,F,1.34,4,R40-R46,General Internal Medicine,38,1,High
+SP0213,43,M,0.93,4,T80-T88,Trauma and Orthopaedics,17,1,Low
+SP0214,56,M,0.7,4,L00-L08,General Internal Medicine,0,1,High
+SP0215,61,M,1.44,3,K55-K64,Gastronenterology,19,3,High
+SP0216,48,F,0.72,2,K55-K64,Gastronenterology,21,1,Low
+SP0217,29,M,0.98,5,R50-R69,Geriatric Medicine,3,2,High
+SP0218,31,M,0.65,5,H15-H22,Ophthalmology,67,1,High
+SP0219,31,F,0.69,3,Z30-Z39,General Internal Medicine,119,1,High
+SP0220,92,M,1.29,1,E00-E07,General Internal Medicine,33,10,Low
+SP0221,65,F,0.7,2,C15-C26,General Internal Medicine,13,12,High
+SP0222,2,M,0.65,2,Z30-Z39,General Internal Medicine,29,1,High
+SP0223,73,M,0.51,5,M00-M25,Trauma and Orthopaedics,101,1,High
+SP0224,81,M,0.52,4,K20-K31,Gastronenterology,4,1,Low
+SP0225,54,F,1.27,5,M30-M36,Trauma and Orthopaedics,122,3,Low
+SP0226,49,M,1.38,5,M00-M25,Trauma and Orthopaedics,93,3,Low
+SP0227,48,F,1.05,2,M00-M25,Trauma and Orthopaedics,210,17,High
+SP0228,79,F,1.06,3,H25-H28,Ophthalmology,18,1,High
+SP0229,33,F,1.27,1,R10-R19,General Internal Medicine,15,2,Low
+SP0230,13,M,1.15,5,T66-T78,Trauma and Orthopaedics,96,2,Low
+SP0231,83,M,1.12,1,L00-L08,General Internal Medicine,0,2,Low
+SP0232,82,F,1.2,2,D50-D53,General Internal Medicine,267,2,High
+SP0233,34,F,1.37,3,O20-O29,General Internal Medicine,0,1,Low
+SP0234,49,F,1.43,4,C50,General Internal Medicine,7,13,Low
+SP0235,59,F,1.19,2,M00-M25,Trauma and Orthopaedics,234,1,Low
+SP0236,37,F,1.33,5,L80-L99,General Internal Medicine,177,13,High
+SP0237,26,F,1.34,4,O60-O75,General Internal Medicine,3,2,Low
+SP0238,70,F,1.46,3,I30-I52,Geriatric Medicine,42,2,Low
+SP0239,16,F,0.73,5,J60-J70,General Internal Medicine,5,5,Low
+SP0240,80,M,1.26,2,I10-I15,Geriatric Medicine,34,7,Low
+SP0241,80,F,0.9,4,R50-R69,Geriatric Medicine,14,1,Low
+SP0242,73,M,0.92,3,L00-L08,General Internal Medicine,4,1,High
+SP0243,69,F,1.12,5,Z40-Z54,General Internal Medicine,1046,1,High
+SP0244,28,F,1.36,2,O30-O48,General Internal Medicine,35,1,Low
+SP0245,70,M,0.95,2,C81-C96,General Internal Medicine,26,6,Low
+SP0246,69,F,0.77,1,J09-J18,General Internal Medicine,4,3,High
+SP0247,7,M,1.3,4,P20-P29,Paediatrics,138,3,Low
+SP0248,39,M,0.79,1,R30-R39,General Internal Medicine,51,2,Low
+SP0249,73,F,0.74,1,K20-K31,Gastronenterology,287,2,High
+SP0250,45,F,0.63,1,G50-G59,General Internal Medicine,28,3,Low
+SP0251,73,F,0.89,5,C76-C80,General Internal Medicine,7,36,Low
+SP0252,48,M,0.74,1,C15-C26,General Internal Medicine,28,2,Low
+SP0253,37,M,1.07,2,N40-N51,General Internal Medicine,119,3,Low
+SP0254,54,F,0.83,5,N30-N39,General Internal Medicine,2,2,Low
+SP0255,48,M,1.27,5,K20-K31,Gastronenterology,11,3,Low
+SP0256,33,F,0.85,2,O60-O75,General Internal Medicine,24,2,Low
+SP0257,54,F,1.17,3,M60-M79,Trauma and Orthopaedics,132,2,Low
+SP0258,19,M,1.15,2,D50-D53,General Internal Medicine,370,2,Low
+SP0259,47,M,0.78,2,R00-R09,General Internal Medicine,57,1,Low
+SP0260,89,M,0.53,2,R50-R69,Geriatric Medicine,8,1,Low
+SP0261,70,F,0.98,5,H25-H28,Ophthalmology,185,1,Low
+SP0262,91,F,1.12,5,H25-H28,Ophthalmology,22,1,Low
+SP0263,40,F,0.62,4,K40-K46,Gastronenterology,486,4,Low
+SP0264,57,F,1.44,5,D10-D36,General Internal Medicine,19,18,Low
+SP0265,45,F,0.83,2,H25-H28,Ophthalmology,32,1,Low
+SP0266,82,M,0.93,1,J09-J18,General Internal Medicine,22,10,Low
+SP0267,41,F,1.44,3,G40-G47,General Internal Medicine,142,1,Low
+SP0268,36,F,1.33,4,O00-O08,General Internal Medicine,0,1,Low
+SP0269,73,F,0.82,5,M40-M54,Trauma and Orthopaedics,9,1,High
+SP0270,81,F,0.53,3,L00-L08,General Internal Medicine,33,5,Low
+SP0271,34,F,1.13,5,O60-O75,General Internal Medicine,39,2,Low
+SP0272,32,F,1.18,3,J09-J18,General Internal Medicine,1,2,High
+SP0273,82,M,0.63,2,R25-R29,General Internal Medicine,22,1,High
+SP0274,95,M,1.29,3,K55-K64,Gastronenterology,28,6,High
+SP0275,18,M,0.88,4,J00-J06,General Internal Medicine,160,1,High
+SP0276,75,M,1.18,1,D10-D36,General Internal Medicine,18,1,Low
+SP0277,55,F,0.98,2,M00-M25,Trauma and Orthopaedics,262,1,Low
+SP0278,75,M,1.23,4,D10-D36,General Internal Medicine,60,1,Low
+SP0279,25,M,1.44,5,E10-E14,General Internal Medicine,1,4,High
+SP0280,34,M,0.68,3,K55-K64,Gastronenterology,60,2,Low
+SP0281,29,F,1.34,2,O20-O29,General Internal Medicine,0,1,High
+SP0282,57,F,1.37,5,J09-J18,General Internal Medicine,8,16,Low
+SP0283,15,F,1.36,5,N30-N39,General Internal Medicine,29,3,High
+SP0284,79,M,1.12,4,I30-I52,Geriatric Medicine,90,40,High
+SP0285,26,F,1.1,3,O20-O29,General Internal Medicine,0,1,Low
+SP0286,45,F,0.58,3,H40-H42,Ophthalmology,17,1,High
+SP0287,65,M,0.96,5,H25-H28,Ophthalmology,50,1,Low
+SP0288,89,F,1.24,2,K55-K64,Gastronenterology,41,1,High
+SP0289,34,F,1.49,2,O20-O29,General Internal Medicine,73,1,Low
+SP0290,85,M,0.87,5,R00-R09,General Internal Medicine,89,1,Low
+SP0291,80,M,1.01,2,I70-I79,Geriatric Medicine,104,2,High
+SP0292,77,F,1.3,2,S80-S89,Trauma and Orthopaedics,26,2,Low
+SP0293,33,M,0.89,5,J30-J39,General Internal Medicine,42,6,Low
+SP0294,25,F,1.25,3,O20-O29,General Internal Medicine,0,2,Low
+SP0295,89,M,1.42,4,A30-A49,General Internal Medicine,2,16,High
+SP0296,80,M,0.89,4,C76-C80,General Internal Medicine,862,5,Low
+SP0297,22,M,0.99,3,K55-K64,Gastronenterology,12,1,Low
+SP0298,25,F,1.39,2,O60-O75,General Internal Medicine,83,1,Low
+SP0299,73,F,1.35,4,H25-H28,Ophthalmology,191,2,High
+SP0300,7,F,1.21,2,Z40-Z54,General Internal Medicine,300,4,Low
+SP0301,77,M,0.74,5,K50-K52,Gastronenterology,408,2,Low
+SP0302,30,M,1.26,4,G35-G37,General Internal Medicine,57,2,Low
+SP0303,34,F,1.05,4,Z00-Z13,General Internal Medicine,602,1,High
+SP0304,46,F,0.99,5,R10-R19,General Internal Medicine,2,1,High
+SP0305,8,F,1.24,4,P50-P61,Paediatrics,2,2,High
+SP0306,39,M,1.16,2,S00-S09,Trauma and Orthopaedics,33,1,Low
+SP0307,61,M,1.03,5,C81-C96,General Internal Medicine,151,26,Low
+SP0308,33,F,1.44,4,C45-C49,General Internal Medicine,8,24,Low
+SP0309,96,F,1.27,5,M60-M79,Trauma and Orthopaedics,132,3,High
+SP0310,28,M,0.82,5,N10-N16,General Internal Medicine,67,3,Low
+SP0311,51,F,0.9,4,D10-D36,General Internal Medicine,1,1,High
+SP0312,52,M,0.77,2,A00-A09,General Internal Medicine,21,2,Low
+SP0313,26,F,0.77,4,O20-O29,General Internal Medicine,0,1,Low
+SP0314,34,F,1.31,5,L80-L99,General Internal Medicine,54,2,Low
+SP0315,50,F,1.07,5,I20-I25,Geriatric Medicine,53,2,Low
+SP0316,22,M,1.03,5,Z30-Z39,General Internal Medicine,46,1,Low
+SP0317,59,F,0.79,4,M95-M99,Trauma and Orthopaedics,325,11,Low
+SP0318,74,M,0.52,1,C30-C39,General Internal Medicine,2,3,Low
+SP0319,36,F,0.77,2,K00-K14,Gastronenterology,56,1,Low
+SP0320,70,F,0.73,2,J20-J22,General Internal Medicine,24,1,High
+SP0321,49,M,0.67,3,C30-C39,General Internal Medicine,3,4,High
+SP0322,14,F,0.62,3,J30-J39,General Internal Medicine,431,6,High
+SP0323,78,M,1.17,3,N40-N51,General Internal Medicine,139,1,High
+SP0324,14,F,0.72,3,Z30-Z39,General Internal Medicine,28,1,Low
+SP0325,65,F,0.66,3,I10-I15,Geriatric Medicine,334,2,Low
+SP0326,84,M,0.58,3,S00-S09,Trauma and Orthopaedics,0,1,Low
+SP0327,89,F,1.05,4,H25-H28,Ophthalmology,318,1,High
+SP0328,25,F,1.23,4,M00-M25,Trauma and Orthopaedics,105,1,Low
+SP0329,30,M,0.58,1,K50-K52,Gastronenterology,73,4,High
+SP0330,86,F,1.01,5,M00-M25,Trauma and Orthopaedics,131,1,Low
+SP0331,75,F,1.14,1,H30-H36,Ophthalmology,88,1,Low
+SP0332,24,F,0.95,4,O20-O29,General Internal Medicine,0,1,Low
+SP0333,25,M,1.48,2,M40-M54,Trauma and Orthopaedics,14,1,High
+SP0334,28,F,1.35,5,O60-O75,General Internal Medicine,17,8,Low
+SP0335,47,F,0.63,5,N80-N98,General Internal Medicine,166,1,Low
+SP0336,80,M,1.37,4,H25-H28,Ophthalmology,37,1,Low
+SP0337,43,M,1.23,5,M40-M54,Trauma and Orthopaedics,136,1,High
+SP0338,31,F,1.47,2,K50-K52,Gastronenterology,17,2,Low
+SP0339,14,F,1.46,2,R10-R19,General Internal Medicine,4,1,High
+SP0340,83,F,0.56,3,K55-K64,Gastronenterology,35,2,Low
+SP0341,38,F,1.06,5,O00-O08,General Internal Medicine,1,1,Low
+SP0342,82,M,0.59,4,J09-J18,General Internal Medicine,1,1,High
+SP0343,53,F,1.28,2,H46-H48,Ophthalmology,14,2,High
+SP0344,57,F,1.24,3,D10-D36,General Internal Medicine,92,1,Low
+SP0345,75,F,0.56,5,K90-K93,Gastronenterology,2,8,Low
+SP0346,40,F,0.53,3,R10-R19,General Internal Medicine,192,1,Low
+SP0347,53,M,1.3,5,K20-K31,Gastronenterology,11,1,Low
+SP0348,7,M,0.95,5,Z30-Z39,General Internal Medicine,61,1,Low
+SP0349,69,M,1.31,5,J09-J18,General Internal Medicine,4,10,Low
+SP0350,42,F,0.85,3,D10-D36,General Internal Medicine,32,1,High
+SP0351,1,F,1.07,5,Z30-Z39,General Internal Medicine,617,1,Low
+SP0352,89,F,1.26,5,H25-H28,Ophthalmology,44,1,Low
+SP0353,58,F,0.78,3,K90-K93,Gastronenterology,12,1,Low
+SP0354,86,F,0.69,2,C15-C26,General Internal Medicine,6,7,High
+SP0355,63,F,0.83,4,R10-R19,General Internal Medicine,151,1,Low
+SP0356,12,F,0.53,1,Z30-Z39,General Internal Medicine,341,1,Low
+SP0357,0,F,0.53,4,P10-P15,Paediatrics,143,1,High
+SP0358,60,F,0.56,2,H25-H28,Ophthalmology,22,1,Low
+SP0359,40,M,0.59,1,A00-A09,General Internal Medicine,10,3,High
+SP0360,30,F,1.05,4,O60-O75,General Internal Medicine,31,3,Low
+SP0361,69,M,0.63,5,N30-N39,General Internal Medicine,202,1,High
+SP0362,84,M,0.75,5,C30-C39,General Internal Medicine,24,1,Low
+SP0363,86,F,0.59,1,K55-K64,Gastronenterology,320,1,Low
+SP0364,41,M,0.63,3,Z00-Z13,General Internal Medicine,100,1,Low
+SP0365,25,F,1.13,5,K00-K14,Gastronenterology,101,2,Low
+SP0366,40,F,1.44,4,I80-I89,Geriatric Medicine,21,9,Low
+SP0367,79,F,1.03,5,C30-C39,General Internal Medicine,6,3,Low
+SP0368,37,F,0.64,4,D10-D36,General Internal Medicine,64,2,High
+SP0369,53,M,0.75,1,M00-M25,Trauma and Orthopaedics,290,2,Low
+SP0370,81,M,0.97,3,J09-J18,General Internal Medicine,22,7,High
+SP0371,36,F,1.2,2,O85-O92,General Internal Medicine,0,2,Low
+SP0372,31,F,0.88,4,O20-O29,General Internal Medicine,1,1,Low
+SP0373,72,M,1.11,4,K55-K64,Gastronenterology,22,9,Low
+SP0374,88,M,1.12,1,J30-J39,General Internal Medicine,126,8,Low
+SP0375,65,M,0.7,1,M40-M54,Trauma and Orthopaedics,357,1,Low
+SP0376,17,M,0.58,1,Q50-Q56,Paediatrics,97,1,Low
+SP0377,58,M,1.37,4,H30-H36,Ophthalmology,26,1,Low
+SP0378,72,F,1.18,4,H25-H28,Ophthalmology,10,1,Low
+SP0379,28,M,0.69,1,K00-K14,Gastronenterology,21,2,Low
+SP0380,40,M,0.89,4,C00-C14,General Internal Medicine,14,2,High
+SP0381,47,M,1.32,5,L50-L54,General Internal Medicine,64,3,Low
+SP0382,80,M,0.85,5,R50-R69,Geriatric Medicine,7,1,Low
+SP0383,13,F,0.68,1,L00-L08,General Internal Medicine,5,7,Low
+SP0384,42,F,1.12,3,C51-C58,General Internal Medicine,169,1,Low
+SP0385,11,F,1.43,3,S40-S49,Trauma and Orthopaedics,746,1,Low
+SP0386,44,F,0.86,5,N80-N98,General Internal Medicine,778,1,Low
+SP0387,83,F,0.6,3,C64-C68,General Internal Medicine,209,1,Low
+SP0388,24,F,1.35,5,Z30-Z39,General Internal Medicine,135,1,Low
+SP0389,4,F,0.96,4,C69-C72,General Internal Medicine,12,1,High
+SP0390,52,F,0.55,5,Z40-Z54,General Internal Medicine,390,2,High
+SP0391,71,M,0.59,4,T80-T88,Trauma and Orthopaedics,57,1,Low
+SP0392,79,F,0.9,1,H25-H28,Ophthalmology,109,1,High
+SP0393,68,M,0.79,5,C97-C97,General Internal Medicine,0,3,Low
+SP0394,95,F,1.19,4,S30-S39,Trauma and Orthopaedics,121,22,Low
+SP0395,0,M,1.43,2,P05-P08,Paediatrics,158,2,Low
+SP0396,0,M,0.88,5,N40-N51,General Internal Medicine,62,1,High
+SP0397,56,F,0.82,4,I80-I89,Geriatric Medicine,53,1,Low
+SP0398,23,F,0.88,5,O30-O48,General Internal Medicine,8,1,Low
+SP0399,46,F,0.74,3,S50-S59,Trauma and Orthopaedics,5,2,Low
+SP0400,18,M,0.96,1,G20-G26,General Internal Medicine,75,12,Low
+SP0401,80,F,0.87,3,R50-R69,Geriatric Medicine,1,2,Low
+SP0402,73,F,1.03,5,I80-I89,Geriatric Medicine,112,4,Low
+SP0403,78,F,1.48,3,I26-I28,Geriatric Medicine,42,1,High
+SP0404,35,M,1.44,3,H25-H28,Ophthalmology,959,1,High
+SP0405,30,F,1.06,5,O30-O48,General Internal Medicine,92,1,High
+SP0406,82,M,0.78,5,A00-A09,General Internal Medicine,296,1,Low
+SP0407,57,M,1.23,2,R50-R69,Geriatric Medicine,11,3,Low
+SP0408,35,F,1.18,3,G35-G37,General Internal Medicine,241,1,Low
+SP0409,46,M,0.66,5,K50-K52,Gastronenterology,192,4,High
+SP0410,61,F,0.86,3,G50-G59,General Internal Medicine,58,1,Low
+SP0411,71,F,1.45,1,G40-G47,General Internal Medicine,24,1,Low
+SP0412,52,F,0.93,2,C50,General Internal Medicine,23,1,Low
+SP0413,80,M,0.85,3,H25-H28,Ophthalmology,48,1,Low
+SP0414,58,F,1.04,2,C50,General Internal Medicine,46,6,Low
+SP0415,53,M,0.62,4,S60-S69,Trauma and Orthopaedics,3,1,Low
+SP0416,60,M,1.01,3,B00-B09,General Internal Medicine,92,4,High
+SP0417,51,F,0.51,1,N30-N39,General Internal Medicine,58,1,Low
+SP0418,85,M,0.57,5,S70-S79,Trauma and Orthopaedics,0,7,Low
+SP0419,17,M,1.43,5,Z30-Z39,General Internal Medicine,484,1,High
+SP0420,51,M,1.13,4,R00-R09,General Internal Medicine,95,1,High
+SP0421,82,M,1.35,1,M80-M94,Trauma and Orthopaedics,15,3,Low
+SP0422,7,F,1.16,2,Z30-Z39,General Internal Medicine,325,1,Low
+SP0423,64,M,0.99,4,L60-L75,General Internal Medicine,24,1,Low
+SP0424,30,F,1.39,2,O20-O29,General Internal Medicine,0,1,High
+SP0425,75,F,1.37,4,E70-E90,General Internal Medicine,31,1,Low
+SP0426,66,M,1.39,2,K40-K46,Gastronenterology,289,3,Low
+SP0427,82,M,0.73,3,K20-K31,Gastronenterology,18,3,Low
+SP0428,82,M,1.34,5,J40-J47,General Internal Medicine,64,2,Low
+SP0429,71,F,0.93,3,D50-D53,General Internal Medicine,0,2,High
+SP0430,3,M,1.33,5,J20-J22,General Internal Medicine,17,1,Low
+SP0431,80,M,0.58,1,H25-H28,Ophthalmology,75,1,Low
+SP0432,43,M,1.36,3,C15-C26,General Internal Medicine,1,3,Low
+SP0433,40,F,0.68,4,R50-R69,Geriatric Medicine,46,1,High
+SP0434,84,M,0.65,5,R00-R09,General Internal Medicine,12,1,Low
+SP0435,50,M,0.98,2,H25-H28,Ophthalmology,33,1,Low
+SP0436,72,M,1.17,5,C15-C26,General Internal Medicine,66,12,Low
+SP0437,70,M,0.84,5,G20-G26,General Internal Medicine,10,26,Low
+SP0438,77,M,1.48,3,C43-C44,General Internal Medicine,36,4,High
+SP0439,43,F,0.89,5,C81-C96,General Internal Medicine,174,4,Low
+SP0440,64,M,1.24,4,D10-D36,General Internal Medicine,9,25,Low
+SP0441,84,M,1.41,4,H25-H28,Ophthalmology,93,1,Low
+SP0442,67,F,0.95,1,I30-I52,Geriatric Medicine,239,21,High
+SP0443,69,M,1.15,5,K20-K31,Gastronenterology,7,7,Low
+SP0444,64,F,0.89,4,M60-M79,Trauma and Orthopaedics,120,2,High
+SP0445,5,M,1.26,2,Z30-Z39,General Internal Medicine,48,1,Low
+SP0446,49,F,0.73,3,N80-N98,General Internal Medicine,109,1,Low
+SP0447,79,M,0.67,5,C64-C68,General Internal Medicine,17,1,Low
+SP0448,70,F,0.57,5,H00-H06,Ophthalmology,126,1,Low
+SP0449,39,F,1.39,4,H90-H95,General Internal Medicine,245,1,High
+SP0450,68,F,0.58,2,C30-C39,General Internal Medicine,7,1,Low
+SP0451,38,F,1.17,4,M60-M79,Trauma and Orthopaedics,167,1,Low
+SP0452,9,M,0.58,1,Z30-Z39,General Internal Medicine,336,1,Low
+SP0453,47,M,1.29,4,K50-K52,Gastronenterology,79,6,Low
+SP0454,64,F,1.38,3,K50-K52,Gastronenterology,36,12,High
+SP0455,53,M,1.32,1,J30-J39,General Internal Medicine,150,7,High
+SP0456,83,F,1.09,5,M00-M25,Trauma and Orthopaedics,126,1,Low
+SP0457,79,F,0.52,4,C51-C58,General Internal Medicine,103,2,Low
+SP0458,87,M,1.01,4,K20-K31,Gastronenterology,14,1,High
+SP0459,20,F,1.46,2,G35-G37,General Internal Medicine,22,2,Low
+SP0460,54,M,1.27,5,R50-R69,Geriatric Medicine,5,1,Low
+SP0461,37,F,1.34,5,O30-O48,General Internal Medicine,38,1,Low
+SP0462,29,F,1.16,4,O60-O75,General Internal Medicine,1,6,High
+SP0463,30,M,1.03,2,D50-D53,General Internal Medicine,14,2,Low
+SP0464,94,M,1.3,1,I30-I52,Geriatric Medicine,24,22,High
+SP0465,72,M,0.71,2,I30-I52,Geriatric Medicine,84,7,Low
+SP0466,50,M,0.84,5,D37-D48,General Internal Medicine,10,2,High
+SP0467,33,M,0.64,5,M00-M25,Trauma and Orthopaedics,32,2,Low
+SP0468,27,M,0.7,4,Z40-Z54,General Internal Medicine,31,1,Low
+SP0469,78,M,0.66,4,D10-D36,General Internal Medicine,6,1,High
+SP0470,19,F,1.19,2,A00-A09,General Internal Medicine,60,1,Low
+SP0471,66,F,1.33,2,H25-H28,Ophthalmology,9,1,Low
+SP0472,52,M,0.86,1,L60-L75,General Internal Medicine,119,1,High
+SP0473,71,F,1,5,M60-M79,Trauma and Orthopaedics,76,3,High
+SP0474,59,M,0.58,2,K20-K31,Gastronenterology,44,1,Low
+SP0475,75,F,0.53,4,K70-K77,Gastronenterology,186,6,High
+SP0476,72,M,1.33,5,D10-D36,General Internal Medicine,62,6,Low
+SP0477,83,M,1.19,5,C81-C96,General Internal Medicine,255,2,High
+SP0478,45,F,1.1,1,R10-R19,General Internal Medicine,132,1,Low
+SP0479,31,F,0.78,4,O20-O29,General Internal Medicine,135,1,Low
+SP0480,18,M,1.43,1,C81-C96,General Internal Medicine,0,1,High
+SP0481,8,M,0.7,3,K35-K38,Gastronenterology,28,1,High
+SP0482,37,F,1.27,1,Z00-Z13,General Internal Medicine,38,2,Low
+SP0483,23,F,1.43,4,O20-O29,General Internal Medicine,10,1,Low
+SP0484,61,M,1.46,5,K40-K46,Gastronenterology,335,1,Low
+SP0485,46,M,0.71,4,K20-K31,Gastronenterology,51,1,Low
+SP0486,44,M,1.49,5,C43-C44,General Internal Medicine,25,1,Low
+SP0487,20,F,1.37,5,O60-O75,General Internal Medicine,7,2,Low
+SP0488,69,F,0.65,5,M00-M25,Trauma and Orthopaedics,37,1,Low
+SP0489,36,F,0.66,4,O00-O08,General Internal Medicine,3,1,High
+SP0490,36,F,0.53,4,O20-O29,General Internal Medicine,1,1,Low
+SP0491,86,M,0.64,5,C81-C96,General Internal Medicine,16,2,Low
+SP0492,72,F,0.59,4,K20-K31,Gastronenterology,14,6,Low
+SP0493,31,F,0.77,5,O60-O75,General Internal Medicine,41,1,Low
+SP0494,57,F,0.62,2,M40-M54,Trauma and Orthopaedics,227,6,Low
+SP0495,59,M,0.51,2,K80-K87,Gastronenterology,21,10,Low
+SP0496,2,F,0.91,4,Z30-Z39,General Internal Medicine,52,1,Low
+SP0497,22,F,0.85,4,O94-O99,General Internal Medicine,225,1,Low
+SP0498,79,M,1.24,4,C76-C80,General Internal Medicine,16,1,Low
+SP0499,63,M,1.47,1,C00-C14,General Internal Medicine,29,11,High
+SP0500,89,F,0.72,5,C30-C39,General Internal Medicine,2,1,High
+SP0501,50,F,1.4,1,N80-N98,General Internal Medicine,332,1,Low
+SP0502,27,F,1.01,3,O85-O92,General Internal Medicine,0,1,Low
+SP0503,15,F,1.18,3,T36-T50,Trauma and Orthopaedics,10,1,Low
+SP0504,26,F,0.69,3,H25-H28,Ophthalmology,1,1,Low
+SP0505,50,M,1.05,3,S90-S99,Trauma and Orthopaedics,3,1,Low
+SP0506,33,F,0.65,5,R40-R46,General Internal Medicine,101,1,High
+SP0507,26,M,0.96,4,K50-K52,Gastronenterology,161,3,Low
+SP0508,6,M,0.99,3,B25-B34,General Internal Medicine,0,1,Low
+SP0509,44,F,0.96,3,O00-O08,General Internal Medicine,1,1,High
+SP0510,70,F,1.44,1,K50-K52,Gastronenterology,560,14,Low
+SP0511,92,M,1.28,3,J09-J18,General Internal Medicine,5,36,High
+SP0512,36,M,0.93,4,K20-K31,Gastronenterology,7,1,Low
+SP0513,88,F,0.73,4,A00-A09,General Internal Medicine,170,1,High
+SP0514,73,M,1.44,2,S70-S79,Trauma and Orthopaedics,18,8,Low
+SP0515,66,F,1.21,1,H25-H28,Ophthalmology,78,1,Low
+SP0516,35,F,0.53,5,R50-R69,Geriatric Medicine,5,1,Low
+SP0517,48,M,1.5,4,E70-E90,General Internal Medicine,46,4,High
+SP0518,30,F,1.37,5,G35-G37,General Internal Medicine,13,14,Low
+SP0519,3,M,0.54,5,U00-U49,General Internal Medicine,99,6,Low
+SP0520,74,F,1.01,5,C50,General Internal Medicine,59,2,Low
+SP0521,70,F,1.35,1,S00-S09,Trauma and Orthopaedics,129,1,Low
+SP0522,73,M,0.93,5,J40-J47,General Internal Medicine,9,8,Low
+SP0523,10,F,0.75,4,A00-A09,General Internal Medicine,151,1,High
+SP0524,44,F,0.78,2,M40-M54,Trauma and Orthopaedics,107,1,Low
+SP0525,55,M,1.3,1,I26-I28,Geriatric Medicine,26,7,High
+SP0526,33,F,1.29,2,O30-O48,General Internal Medicine,21,1,Low
+SP0527,0,M,1.06,5,C40-C41,General Internal Medicine,186,17,Low
+SP0528,30,F,0.79,3,Z30-Z39,General Internal Medicine,467,1,Low
+SP0529,56,M,0.69,2,L60-L75,General Internal Medicine,100,1,High
+SP0530,7,M,1.47,3,C81-C96,General Internal Medicine,1,4,High
+SP0531,36,F,0.51,3,N80-N98,General Internal Medicine,85,1,Low
+SP0532,77,F,0.76,5,C81-C96,General Internal Medicine,18,2,High
+SP0533,82,M,1.1,2,R40-R46,General Internal Medicine,22,3,Low
+SP0534,73,F,1.45,4,C76-C80,General Internal Medicine,464,26,Low
+SP0535,87,F,0.94,5,R50-R69,Geriatric Medicine,11,1,Low
+SP0536,37,F,1.19,3,D50-D53,General Internal Medicine,12,4,Low
+SP0537,65,F,0.98,5,C81-C96,General Internal Medicine,67,4,Low
+SP0538,62,M,1.49,5,Z00-Z13,General Internal Medicine,195,1,Low
+SP0539,33,F,0.54,3,K00-K14,Gastronenterology,45,4,Low
+SP0540,6,F,0.73,2,Z30-Z39,General Internal Medicine,116,1,High
+SP0541,22,F,0.57,2,N80-N98,General Internal Medicine,83,1,Low
+SP0542,67,M,1.14,2,C15-C26,General Internal Medicine,4,6,High
+SP0543,63,F,1.29,1,K55-K64,Gastronenterology,100,14,High
+SP0544,76,M,1.3,4,N40-N51,General Internal Medicine,119,14,High
+SP0545,33,M,1.24,5,K80-K87,Gastronenterology,226,10,High
+SP0546,3,F,0.52,4,M30-M36,Trauma and Orthopaedics,21,37,Low
+SP0547,67,F,1.06,5,E10-E14,General Internal Medicine,14,2,Low
+SP0548,59,F,1.44,3,M00-M25,Trauma and Orthopaedics,100,1,High
+SP0549,57,F,0.84,4,D10-D36,General Internal Medicine,55,1,Low
+SP0550,72,F,1.14,1,S00-S09,Trauma and Orthopaedics,2,2,Low
+SP0551,19,M,0.96,1,Z30-Z39,General Internal Medicine,165,1,Low
+SP0552,66,M,0.55,4,N40-N51,General Internal Medicine,782,1,Low
+SP0553,37,F,1.11,5,O20-O29,General Internal Medicine,6,1,Low
+SP0554,78,M,0.96,5,I80-I89,Geriatric Medicine,715,1,High
+SP0555,47,F,1.35,3,K40-K46,Gastronenterology,317,3,Low
+SP0556,56,F,0.61,3,C81-C96,General Internal Medicine,4,1,Low
+SP0557,19,F,1.43,4,L80-L99,General Internal Medicine,159,3,Low
+SP0558,93,M,1.02,3,L00-L08,General Internal Medicine,14,1,High
+SP0559,58,M,0.56,1,N40-N51,General Internal Medicine,98,1,High
+SP0560,48,M,1.06,3,R00-R09,General Internal Medicine,27,1,High
+SP0561,18,M,0.99,3,J20-J22,General Internal Medicine,5,1,Low
+SP0562,55,F,0.78,3,M40-M54,Trauma and Orthopaedics,105,8,High
+SP0563,41,F,1.03,5,C50,General Internal Medicine,305,2,Low
+SP0564,55,M,1.25,5,C00-C14,General Internal Medicine,4,4,Low
+SP0565,67,F,0.81,4,H30-H36,Ophthalmology,84,1,Low
+SP0566,84,F,0.62,5,J09-J18,General Internal Medicine,0,4,High
+SP0567,73,M,1.42,1,E70-E90,General Internal Medicine,24,2,Low
+SP0568,48,F,0.51,2,H65-H75,General Internal Medicine,264,1,Low
+SP0569,72,F,1.1,4,D10-D36,General Internal Medicine,25,1,Low
+SP0570,61,F,0.79,5,N80-N98,General Internal Medicine,107,1,Low
+SP0571,46,M,1.08,5,K00-K14,Gastronenterology,21,1,High
+SP0572,79,M,0.75,5,J09-J18,General Internal Medicine,4,20,Low
+SP0573,78,F,0.92,5,C51-C58,General Internal Medicine,39,3,Low
+SP0574,63,M,0.63,3,M80-M94,Trauma and Orthopaedics,7,2,Low
+SP0575,67,M,0.65,5,N17-N19,General Internal Medicine,417,11,Low
+SP0576,59,M,0.94,5,R00-R09,General Internal Medicine,33,1,Low
+SP0577,0,F,1.29,5,M30-M36,Trauma and Orthopaedics,7,4,High
+SP0578,71,M,1.44,2,M00-M25,Trauma and Orthopaedics,114,1,Low
+SP0579,84,M,1.37,5,T80-T88,Trauma and Orthopaedics,29,1,Low
+SP0580,35,F,0.96,3,N30-N39,General Internal Medicine,151,1,Low
+SP0581,28,F,0.59,3,O30-O48,General Internal Medicine,6,1,High
+SP0582,78,M,0.95,3,C76-C80,General Internal Medicine,2,3,Low
+SP0583,70,M,0.6,2,S00-S09,Trauma and Orthopaedics,7,1,Low
+SP0584,36,M,0.62,2,M00-M25,Trauma and Orthopaedics,250,1,Low
+SP0585,75,F,1.46,2,D10-D36,General Internal Medicine,274,3,Low
+SP0586,72,F,0.95,4,C50,General Internal Medicine,144,1,Low
+SP0587,62,F,1.05,5,C76-C80,General Internal Medicine,2,3,Low
+SP0588,3,M,0.83,1,Z30-Z39,General Internal Medicine,220,1,Low
+SP0589,68,M,0.98,4,I20-I25,Geriatric Medicine,85,1,Low
+SP0590,64,F,1.19,4,M00-M25,Trauma and Orthopaedics,305,1,High
+SP0591,84,F,1.36,2,S70-S79,Trauma and Orthopaedics,3,10,Low
+SP0592,56,F,0.55,4,H25-H28,Ophthalmology,239,1,High
+SP0593,65,M,1.08,3,C15-C26,General Internal Medicine,11,18,Low
+SP0594,74,F,1.08,5,C15-C26,General Internal Medicine,19,5,Low
+SP0595,89,M,1.12,4,R10-R19,General Internal Medicine,1,1,Low
+SP0596,78,M,0.58,1,J09-J18,General Internal Medicine,49,13,Low
+SP0597,52,M,1.04,2,R00-R09,General Internal Medicine,61,2,Low
+SP0598,30,M,0.63,3,L00-L08,General Internal Medicine,304,1,High
+SP0599,66,F,1.22,5,C76-C80,General Internal Medicine,67,9,Low
+SP0600,74,M,0.56,3,K20-K31,Gastronenterology,132,1,Low
+SP0601,78,F,0.92,5,K80-K87,Gastronenterology,56,3,Low
+SP0602,25,M,0.93,3,N40-N51,General Internal Medicine,84,1,Low
+SP0603,29,F,0.8,2,O30-O48,General Internal Medicine,14,1,Low
+SP0604,99,F,0.85,4,J09-J18,General Internal Medicine,1,7,Low
+SP0605,77,F,0.98,3,R10-R19,General Internal Medicine,54,2,High
+SP0606,57,M,1.43,5,K70-K77,Gastronenterology,26,6,High
+SP0607,29,F,1,3,O60-O75,General Internal Medicine,45,1,High
+SP0608,18,F,0.98,3,Z30-Z39,General Internal Medicine,409,1,High
+SP0609,70,M,1.17,5,H25-H28,Ophthalmology,50,1,Low
+SP0610,88,M,0.65,1,L00-L08,General Internal Medicine,3,4,Low
+SP0611,76,F,0.99,5,M00-M25,Trauma and Orthopaedics,335,1,Low
+SP0612,67,F,0.57,4,Q10-Q18,Paediatrics,216,1,Low
+SP0613,76,F,1.31,4,S50-S59,Trauma and Orthopaedics,1,11,High
+SP0614,75,M,1.24,1,C64-C68,General Internal Medicine,35,1,Low
+SP0615,76,M,0.84,3,E70-E90,General Internal Medicine,351,1,Low
+SP0616,56,F,1.33,3,C15-C26,General Internal Medicine,13,4,Low
+SP0617,49,M,0.79,5,T80-T88,Trauma and Orthopaedics,143,1,Low
+SP0618,55,M,0.59,5,J09-J18,General Internal Medicine,76,4,Low
+SP0619,59,F,1.08,4,K20-K31,Gastronenterology,19,2,Low
+SP0620,16,M,1.13,2,M00-M25,Trauma and Orthopaedics,245,10,Low
+SP0621,74,M,0.66,5,A30-A49,General Internal Medicine,3,2,High
+SP0622,25,F,1.22,2,T36-T50,Trauma and Orthopaedics,3,3,Low
+SP0623,82,M,0.89,5,I60-I69,Geriatric Medicine,121,4,Low
+SP0624,63,F,1.3,1,D00-D09,General Internal Medicine,61,1,Low
+SP0625,35,M,1.46,2,L00-L08,General Internal Medicine,102,8,High
+SP0626,72,M,0.61,2,N10-N16,General Internal Medicine,102,1,Low
+SP0627,29,F,1.44,5,O00-O08,General Internal Medicine,1,1,High
+SP0628,18,F,1.15,5,N80-N98,General Internal Medicine,16,1,Low
+SP0629,79,M,0.51,3,K55-K64,Gastronenterology,58,1,Low
+SP0630,37,M,1.1,2,R10-R19,General Internal Medicine,36,1,High
+SP0631,94,F,1.27,5,K00-K14,Gastronenterology,214,1,Low
+SP0632,56,M,0.57,4,Z00-Z13,General Internal Medicine,26,2,High
+SP0633,17,M,0.99,4,Z30-Z39,General Internal Medicine,109,1,Low
+SP0634,64,M,1.02,1,M00-M25,Trauma and Orthopaedics,49,10,Low
+SP0635,78,F,0.64,3,H30-H36,Ophthalmology,36,1,High
+SP0636,7,F,1.26,2,Z30-Z39,General Internal Medicine,248,1,Low
+SP0637,84,M,1.28,4,H25-H28,Ophthalmology,50,1,Low
+SP0638,32,F,0.56,5,R10-R19,General Internal Medicine,13,1,Low
+SP0639,81,F,1.13,5,M60-M79,Trauma and Orthopaedics,173,1,High
+SP0640,80,M,0.86,1,C97-C97,General Internal Medicine,43,2,High
+SP0641,73,F,1.15,4,C81-C96,General Internal Medicine,129,7,Low
+SP0642,79,F,1.05,4,K20-K31,Gastronenterology,6,1,Low
+SP0643,58,M,0.86,4,N40-N51,General Internal Medicine,107,2,High
+SP0644,80,M,0.84,5,R00-R09,General Internal Medicine,60,1,Low
+SP0645,18,M,1.13,4,Z30-Z39,General Internal Medicine,139,1,High
+SP0646,75,F,0.78,4,K20-K31,Gastronenterology,21,88,Low
+SP0647,38,F,0.77,1,O00-O08,General Internal Medicine,1,1,Low
+SP0648,55,F,1,3,M00-M25,Trauma and Orthopaedics,141,2,High
+SP0649,72,F,1.39,4,H53-H54,Ophthalmology,406,1,High
+SP0650,51,M,0.6,4,R50-R69,Geriatric Medicine,557,3,Low
+SP0651,21,M,0.51,2,R30-R39,General Internal Medicine,6,7,Low
+SP0652,32,M,0.52,1,K55-K64,Gastronenterology,4,4,Low
+SP0653,58,M,0.79,4,S40-S49,Trauma and Orthopaedics,2,1,Low
+SP0654,57,F,1.1,3,R10-R19,General Internal Medicine,8,2,High
+SP0655,63,F,1.19,5,J30-J39,General Internal Medicine,113,1,Low
+SP0656,51,F,1.23,2,E70-E90,General Internal Medicine,11,1,Low
+SP0657,65,F,0.74,2,H30-H36,Ophthalmology,14,2,Low
+SP0658,57,M,0.91,5,L00-L08,General Internal Medicine,0,1,Low
+SP0659,10,F,0.6,3,Z30-Z39,General Internal Medicine,215,2,Low
+SP0660,39,F,1.44,2,E50-E64,General Internal Medicine,6,3,Low
+SP0661,48,F,0.71,3,R10-R19,General Internal Medicine,33,1,Low
+SP0662,24,F,0.83,4,O60-O75,General Internal Medicine,24,1,Low
+SP0663,15,M,0.57,2,B00-B09,General Internal Medicine,9,4,Low
+SP0664,67,M,0.71,2,L80-L99,General Internal Medicine,20,68,Low
+SP0665,49,F,0.82,4,S60-S69,Trauma and Orthopaedics,11,1,Low
+SP0666,23,F,1.12,3,O94-O99,General Internal Medicine,5,2,High
+SP0667,58,F,1,3,R70-R79,General Internal Medicine,49,1,Low
+SP0668,40,F,0.8,2,G40-G47,General Internal Medicine,699,1,High
+SP0669,22,F,1.18,5,O30-O48,General Internal Medicine,20,1,High
+SP0670,56,F,1.34,2,C51-C58,General Internal Medicine,130,1,Low
+SP0671,49,M,1.11,4,I20-I25,Geriatric Medicine,14,1,Low
+SP0672,35,M,1.15,3,M40-M54,Trauma and Orthopaedics,152,1,Low
+SP0673,77,F,0.5,2,B35-B49,General Internal Medicine,4,11,High
+SP0674,84,M,1.43,1,R00-R09,General Internal Medicine,77,1,Low
+SP0675,69,F,0.8,3,C76-C80,General Internal Medicine,5,16,Low
+SP0676,81,M,0.52,5,J30-J39,General Internal Medicine,8,1,Low
+SP0677,10,M,0.92,2,K20-K31,Gastronenterology,116,2,High
+SP0678,34,F,1.11,3,A30-A49,General Internal Medicine,0,30,Low
+SP0679,4,M,0.69,5,N30-N39,General Internal Medicine,16,6,Low
+SP0680,66,M,0.63,3,C64-C68,General Internal Medicine,28,2,High
+SP0681,54,M,0.64,3,C43-C44,General Internal Medicine,10,1,Low
+SP0682,71,F,0.55,2,I30-I52,Geriatric Medicine,136,1,Low
+SP0683,57,F,1.02,5,H10-H13,Ophthalmology,161,2,High
+SP0684,25,F,1.27,1,G35-G37,General Internal Medicine,7,2,Low
+SP0685,72,M,0.89,2,C81-C96,General Internal Medicine,2,19,High
+SP0686,30,F,0.66,3,O20-O29,General Internal Medicine,1,1,Low
+SP0687,14,M,0.62,1,C81-C96,General Internal Medicine,8,1,Low
+SP0688,88,M,1.01,3,M60-M79,Trauma and Orthopaedics,674,2,Low
+SP0689,65,M,1.2,3,C97-C97,General Internal Medicine,5,3,Low
+SP0690,11,F,0.65,2,K00-K14,Gastronenterology,244,2,Low
+SP0691,57,F,0.6,4,K50-K52,Gastronenterology,16,13,High
+SP0692,57,M,1.29,4,K55-K64,Gastronenterology,16,2,High
+SP0693,64,F,1.36,1,M00-M25,Trauma and Orthopaedics,315,7,Low
+SP0694,81,M,0.88,5,B99-B99,General Internal Medicine,6,2,Low
+SP0695,71,M,1.39,5,C64-C68,General Internal Medicine,35,5,Low
+SP0696,73,M,1.03,4,J40-J47,General Internal Medicine,21,8,Low
+SP0697,57,F,0.87,2,T80-T88,Trauma and Orthopaedics,12,47,Low
+SP0698,63,M,0.82,5,D60-D64,General Internal Medicine,80,1,High
+SP0699,40,F,0.81,5,K00-K14,Gastronenterology,160,1,Low
+SP0700,83,F,1.16,3,S80-S89,Trauma and Orthopaedics,9,35,Low
