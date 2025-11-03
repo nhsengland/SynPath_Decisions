@@ -83,6 +83,10 @@ Outputs should be presented as a 2–3 slide summary or dashboard output by the 
 
 ![Fake Data Generation](./assets/dataView.png)
 
+## Possible Methods
+
+![Some decision methods to consider (non-exhaustive)](./assets/methods.png)
+
 ## Timeline of the day
 
 **1st Session: 10.00 - 12.00**
