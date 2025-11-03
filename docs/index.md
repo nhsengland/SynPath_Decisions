@@ -17,7 +17,10 @@ The model system (e.g. changes to clinical thresholds and priorities such as mov
 The supply (e.g. changes to funding or workforce retention/recruitment questions)
 As none of these changes are conducted on the activity data the model is not being recursive (i.e. visualising its own assumptions) but is instead a valid simulation of the scenarios.
 
-![Schematic of a healthcare system digital twin.](./assets/DTdesign.png)
+<p align="center">
+    <img src="./assets/DTdesign.png" alt="Schematic of a healthcare system digital twin." width="750"/>
+</p>
+
 
 1. System Service Points & Activities Config
     - The system is composed of service points with activities (e.g., blood test, appointment booking) defined through clinical input.
@@ -36,7 +39,10 @@ As none of these changes are conducted on the activity data the model is not bei
 
 The engine progresses each individual in the system (and system characteristics) based on multiple decision criteria. The next_action and system_update decisions are complex or even chaotic due to the level of variation and the human factor. In reality, the conflicting priorities are decided using a multi-disciplinary team approach -> can this be simulated cleanly in out digital twin. Decisions are made at many different levels simultaneously (patient, ward, hospital, trust, ….)
 
-![Decision Engine](./assets/engine.png)
+<p align="center">
+    <img src="./assets/engine.png" alt="Decision Engine" width="750"/>
+</p>
+
 
 ## Scenarios
 
@@ -81,11 +87,15 @@ Outputs should be presented as a 2–3 slide summary or dashboard output by the 
 
 ## Fake Data
 
-![Fake Data Generation](./assets/dataView.png)
+<p align="center">
+    <img src="./assets/dataView.png" alt="Fake Data Generation" width="750"/>
+</p>
 
 ## Possible Methods
 
-![Some decision methods to consider (non-exhaustive)](./assets/methods.png)
+<p align="center">
+    <img src="./assets/methods.png" alt="Some decision methods to consider (non-exhaustive)" width="750"/>
+</p>
 
 ## Timeline of the day
 
