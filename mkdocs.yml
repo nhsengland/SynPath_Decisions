@@ -55,8 +55,6 @@ extra_css:
 
 plugins:
   - search
-  - autorefs
-  - mkdocstrings
 
 markdown_extensions:
   - pymdownx.highlight:
