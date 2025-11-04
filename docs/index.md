@@ -97,6 +97,12 @@ Outputs should be presented as a 2–3 slide summary or dashboard output by the 
     <img src="./assets/methods.png" alt="Some decision methods to consider (non-exhaustive)" width="750"/>
 </p>
 
+[MCDA](https://analysisfunction.civilservice.gov.uk/policy-store/an-introductory-guide-to-mcda/)
+[Decision Trees](https://medium.com/@sachinsoni600517/mastering-decision-tree-models-for-smarter-decisions-451ef8b75836)
+[Linear Programming](https://medium.com/data-science/optimize-production-with-r-part-i-25497d29e06e)
+[Reinforcement Learning - Q-learning](https://medium.com/@glennlenormand/mastering-decision-making-in-ai-an-introduction-to-q-learning-27afa8f0d856)
+[Agent-Based Consensus](https://arxiv.org/html/2404.15155v2)
+
 ## Timeline of the day
 
 **1st Session: 10.00 - 12.00**
