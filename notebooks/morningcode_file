@@ -27,3 +27,7 @@ coming = dfs["coming"].copy()
 historic = dfs["historic"].copy()
 
 
+# Creates a summary dictionary describing each dataset.
+schemas = {k: {"rows": len(df), "cols": list(df.columns)} for k, df in dfs.items()}
+schemas
+#For each DF: "rows" gives the number of rows. "cols" lists the column names.
