@@ -14,3 +14,16 @@ paths = {
 dfs = {k: pd.read_csv(v) for k, v in paths.items()} #converts the CSVs into data frames. 
 # Each DataFrame is stored in a dictionary called dfs with the same keys ("current", "coming", "historic").
 # So dfs["current"] is the DataFrame for the ScenarioA_patients_current.csv file, and so on
+
+#Clean up column names in DF
+for name, df in dfs.items():
+    df.columns = [c.strip() for c in df.columns]
+    dfs[name] = df
+
+
+# create copies to ensure originals in DFS aren't affected.
+current = dfs["current"].copy()
+coming = dfs["coming"].copy()
+historic = dfs["historic"].copy()
+
+
