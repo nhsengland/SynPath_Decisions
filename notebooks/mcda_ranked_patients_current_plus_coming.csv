@@ -1,0 +1,301 @@
+pseudo_patient_id,age,sex,Complexity,Acuity,Primary Diagnosis Summary,Speciality,Vitals Trend,Waiting Time (days),Time since Admission (days),nextAction,blocker,Discharge Dependence,Dataset,MCDA_score,mcda_rank_within_Speciality,tie_breaker,overall_rank
+SP0814,4,F,1.43,4,K50-K52,Gastronenterology,Deteriorating,33,2.0,Discharge,Staff Availability,Low,current,0.7519910625620655,1,Acuity=4|Complexity=1.43|Vitals=Deteriorating,3
+SP0853,50,F,1.39,4,K55-K64,Gastronenterology,Deteriorating,7,1.0,Review,No Blocker,Low,current,0.7188058589870904,2,Acuity=4|Complexity=1.39|Vitals=Deteriorating,7
+SP0884,37,F,1.47,5,K50-K52,Gastronenterology,Stable,95,1.0,Assessment,Bed Availability,High,current,0.7021573982125123,3,Acuity=5|Complexity=1.47|Vitals=Stable,8
+SP0838,31,F,1.49,5,K00-K14,Gastronenterology,Stable,63,1.0,Assessment,No Blocker,High,current,0.6912735849056604,4,Acuity=5|Complexity=1.49|Vitals=Stable,9
+SP0888,34,F,1.08,5,K50-K52,Gastronenterology,Stable,3,1.0,Assessment,No Blocker,Low,current,0.5766559086395233,5,Acuity=5|Complexity=1.08|Vitals=Stable,21
+SP0978,95,F,1.48,5,K20-K31,Gastronenterology,,29,,,,Low,coming,0.5606305858987091,6,Acuity=5|Complexity=1.48|Vitals=nan,24
+SP0914,52,F,1.37,5,K55-K64,Gastronenterology,,3,,,,Low,coming,0.5252085402184707,7,Acuity=5|Complexity=1.37|Vitals=nan,32
+SP0864,40,M,1.08,5,K40-K46,Gastronenterology,Improving,99,1.0,Assessment,No Blocker,Low,current,0.4719389275074479,8,Acuity=5|Complexity=1.08|Vitals=Improving,54
+SP0994,72,F,1.43,4,K90-K93,Gastronenterology,,10,,,,High,coming,0.4661420059582919,9,Acuity=4|Complexity=1.43|Vitals=nan,57
+SP0899,68,F,0.58,4,K80-K87,Gastronenterology,Stable,18,5.0,Discharge,No Blocker,Low,current,0.45346822244289964,10,Acuity=4|Complexity=0.58|Vitals=Stable,67
+SP0921,50,F,1.25,4,K50-K52,Gastronenterology,,55,,,,Low,coming,0.4494736842105263,11,Acuity=4|Complexity=1.25|Vitals=nan,68
+SP0778,49,F,0.93,5,K50-K52,Gastronenterology,Improving,3,5.0,Treatment,No Blocker,Low,current,0.4450769612711023,12,Acuity=5|Complexity=0.93|Vitals=Improving,73
+SP0935,23,M,0.95,5,K20-K31,Gastronenterology,,17,,,,Low,coming,0.4433912611717974,13,Acuity=5|Complexity=0.95|Vitals=nan,78
+SP0857,65,M,1.2,5,K50-K52,Gastronenterology,Improving,4,0.0,Review,Staff Availability,Low,current,0.43989076464746774,14,Acuity=5|Complexity=1.2|Vitals=Improving,80
+SP0877,47,F,0.65,5,K50-K52,Gastronenterology,Improving,4,8.0,Discharge,Awaiting Social Care,High,current,0.4241012909632572,15,Acuity=5|Complexity=0.65|Vitals=Improving,88
+SP0712,49,F,1.06,5,K55-K64,Gastronenterology,Improving,23,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.41937934458788484,16,Acuity=5|Complexity=1.06|Vitals=Improving,93
+SP0818,40,M,0.65,4,K00-K14,Gastronenterology,Stable,42,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.4170258192651439,17,Acuity=4|Complexity=0.65|Vitals=Stable,94
+SP0709,44,M,1.1,4,K90-K93,Gastronenterology,Improving,23,5.0,Diagnostics/Investigation,Staff Availability,Low,current,0.41530039721946377,18,Acuity=4|Complexity=1.1|Vitals=Improving,95
+SP0872,53,F,1.12,4,K70-K77,Gastronenterology,Improving,8,5.0,Treatment,Theatre slot availability,Low,current,0.41243545183714003,19,Acuity=4|Complexity=1.12|Vitals=Improving,98
+SP0808,2,F,0.84,2,K00-K14,Gastronenterology,Stable,214,1.0,Discharge,No Blocker,Low,current,0.40065789473684205,20,Acuity=2|Complexity=0.84|Vitals=Stable,107
+SP0832,3,F,1.46,1,K20-K31,Gastronenterology,Stable,15,4.0,Treatment,Theatre slot availability,Low,current,0.39981628599801394,21,Acuity=1|Complexity=1.46|Vitals=Stable,108
+SP0738,83,F,0.72,5,K80-K87,Gastronenterology,Improving,17,2.0,Diagnostics/Investigation,Staff Availability,Low,current,0.3699702085402185,22,Acuity=5|Complexity=0.72|Vitals=Improving,123
+SP0723,83,F,1.45,3,K20-K31,Gastronenterology,Improving,13,1.0,Assessment,Bed Availability,Low,current,0.35926762661370415,23,Acuity=3|Complexity=1.45|Vitals=Improving,128
+SP0836,76,M,1.14,3,K55-K64,Gastronenterology,Improving,150,1.0,Discharge,No Blocker,Low,current,0.35862711022840116,24,Acuity=3|Complexity=1.14|Vitals=Improving,129
+SP0711,44,F,1.14,2,K80-K87,Gastronenterology,Stable,9,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.354617676266137,25,Acuity=2|Complexity=1.14|Vitals=Stable,131
+SP0707,77,M,0.78,3,K20-K31,Gastronenterology,Stable,2,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.3505263157894737,26,Acuity=3|Complexity=0.78|Vitals=Stable,135
+SP0904,76,F,1.11,2,K50-K52,Gastronenterology,,202,,,,Low,coming,0.33933962264150946,27,Acuity=2|Complexity=1.11|Vitals=nan,144
+SP0879,47,M,1.05,3,K80-K87,Gastronenterology,Improving,133,1.0,Discharge,No Blocker,Low,current,0.3316608738828203,28,Acuity=3|Complexity=1.05|Vitals=Improving,150
+SP0791,76,F,0.58,5,K55-K64,Gastronenterology,Improving,17,1.0,Discharge,No Blocker,Low,current,0.3279965243296922,29,Acuity=5|Complexity=0.58|Vitals=Improving,153
+SP0930,76,F,1.28,2,K80-K87,Gastronenterology,,24,,,,High,coming,0.29116683217477657,30,Acuity=2|Complexity=1.28|Vitals=nan,177
+SP0798,35,F,0.54,4,K80-K87,Gastronenterology,Improving,22,1.0,Assessment,No Blocker,High,current,0.24693396226415093,31,Acuity=4|Complexity=0.54|Vitals=Improving,206
+SP0812,67,M,1.09,2,K50-K52,Gastronenterology,Improving,10,4.0,Discharge,Awaiting Social Care,High,current,0.24456305858987093,32,Acuity=2|Complexity=1.09|Vitals=Improving,208
+SP0762,65,F,0.9,3,K55-K64,Gastronenterology,Improving,39,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.24324230387288978,33,Acuity=3|Complexity=0.9|Vitals=Improving,209
+SP0893,99,F,1.43,1,K20-K31,Gastronenterology,Improving,58,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.2137835153922542,34,Acuity=1|Complexity=1.43|Vitals=Improving,229
+SP0878,49,F,1.37,1,K55-K64,Gastronenterology,Improving,23,1.0,Discharge,Staff Availability,Low,current,0.1971425024826217,35,Acuity=1|Complexity=1.37|Vitals=Improving,239
+SP0890,78,M,0.92,2,K55-K64,Gastronenterology,Improving,23,0.0,Review,Staff Availability,Low,current,0.16490566037735852,36,Acuity=2|Complexity=0.92|Vitals=Improving,254
+SP0833,41,F,0.77,2,K55-K64,Gastronenterology,Improving,6,1.0,Review,Awaiting Test Results,Low,current,0.13780784508440916,37,Acuity=2|Complexity=0.77|Vitals=Improving,267
+SP0928,62,F,0.94,1,K20-K31,Gastronenterology,,6,,,,High,coming,0.13609731876861964,38,Acuity=1|Complexity=0.94|Vitals=nan,268
+SP0975,2,M,0.56,2,K00-K14,Gastronenterology,,7,,,,Low,coming,0.1315690168818272,39,Acuity=2|Complexity=0.56|Vitals=nan,270
+SP0741,17,F,0.95,1,K00-K14,Gastronenterology,Improving,43,2.0,Review,Staff Availability,Low,current,0.13065541211519363,40,Acuity=1|Complexity=0.95|Vitals=Improving,271
+SP0793,81,F,0.98,1,K55-K64,Gastronenterology,Improving,53,1.0,Treatment,Staff Availability,Low,current,0.12918818272095334,41,Acuity=1|Complexity=0.98|Vitals=Improving,273
+SP0988,62,M,0.64,1,K80-K87,Gastronenterology,,80,,,,Low,coming,0.10784508440913604,42,Acuity=1|Complexity=0.64|Vitals=nan,280
+SP0927,69,F,0.71,1,K55-K64,Gastronenterology,,42,,,,Low,coming,0.10465739821251241,43,Acuity=1|Complexity=0.71|Vitals=nan,282
+SP0887,47,M,0.92,1,K50-K52,Gastronenterology,Improving,12,1.0,Discharge,No Blocker,Low,current,0.09721698113207548,44,Acuity=1|Complexity=0.92|Vitals=Improving,286
+SP0918,36,M,0.64,1,K55-K64,Gastronenterology,,41,,,,Low,coming,0.0894488579940417,45,Acuity=1|Complexity=0.64|Vitals=nan,288
+SP0912,74,M,0.64,1,K55-K64,Gastronenterology,,4,,,,Low,coming,0.07199602780536246,46,Acuity=1|Complexity=0.64|Vitals=nan,293
+SP0830,50,F,0.65,1,K35-K38,Gastronenterology,Improving,48,1.0,Discharge,Awaiting Social Care,High,current,0.057356007944389276,47,Acuity=1|Complexity=0.65|Vitals=Improving,297
+SP0869,33,F,1.46,4,N80-N98,General Internal Medicine,Deteriorating,155,0.0,Treatment,Theatre slot availability,High,current,0.7580332502746296,1,Acuity=4|Complexity=1.46|Vitals=Deteriorating,2
+SP0892,8,M,1.07,5,Z30-Z39,General Internal Medicine,Deteriorating,95,1.0,Discharge,Awaiting Social Care,High,current,0.7393719187900222,2,Acuity=5|Complexity=1.07|Vitals=Deteriorating,5
+SP0881,35,F,1.23,5,G35-G37,General Internal Medicine,Stable,130,96.0,Discharge,No Blocker,Low,current,0.729937304075235,3,Acuity=5|Complexity=1.23|Vitals=Stable,6
+SP0776,68,M,1.19,5,J40-J47,General Internal Medicine,Stable,357,5.0,Treatment,No Blocker,Low,current,0.6872770309192723,4,Acuity=5|Complexity=1.19|Vitals=Stable,10
+SP0815,55,M,1.39,5,C15-C26,General Internal Medicine,Stable,11,40.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.6723622163277335,5,Acuity=5|Complexity=1.39|Vitals=Stable,12
+SP0774,27,M,1.27,5,R10-R19,General Internal Medicine,Stable,70,0.0,Review,No Blocker,Low,current,0.622102992792648,6,Acuity=5|Complexity=1.27|Vitals=Stable,13
+SP0763,80,M,1.04,5,G40-G47,General Internal Medicine,Stable,211,0.0,Diagnostics/Investigation,No Blocker,High,current,0.6130388768319802,7,Acuity=5|Complexity=1.04|Vitals=Stable,14
+SP0876,75,F,1.24,5,C15-C26,General Internal Medicine,Stable,12,4.0,Treatment,Staff Availability,High,current,0.6048244380140931,8,Acuity=5|Complexity=1.24|Vitals=Stable,15
+SP0739,23,F,1.1,5,R10-R19,General Internal Medicine,Stable,61,0.0,Treatment,Theatre slot availability,Low,current,0.5853722905447044,9,Acuity=5|Complexity=1.1|Vitals=Stable,16
+SP0859,76,F,1.16,5,E70-E90,General Internal Medicine,Stable,10,0.0,Assessment,No Blocker,Low,current,0.5839656512070306,10,Acuity=5|Complexity=1.16|Vitals=Stable,17
+SP0721,82,F,1.26,4,N17-N19,General Internal Medicine,Stable,168,7.0,Discharge,No Blocker,Low,current,0.5783691523993248,11,Acuity=4|Complexity=1.26|Vitals=Stable,20
+SP0825,32,M,0.97,5,E70-E90,General Internal Medicine,Stable,3,3.0,Discharge,Staff Availability,Low,current,0.5468500488974627,12,Acuity=5|Complexity=0.97|Vitals=Stable,26
+SP0744,70,M,0.9,5,C15-C26,General Internal Medicine,Stable,41,1.0,Assessment,No Blocker,Low,current,0.5407048770195323,13,Acuity=5|Complexity=0.9|Vitals=Stable,27
+SP0929,79,M,1.37,5,C15-C26,General Internal Medicine,,59,,,,Low,coming,0.5393872411113791,14,Acuity=5|Complexity=1.37|Vitals=nan,28
+SP0983,15,F,1.18,5,Z30-Z39,General Internal Medicine,,180,,,,Low,coming,0.5330988934437211,15,Acuity=5|Complexity=1.18|Vitals=nan,29
+SP0896,25,M,0.87,5,Z70-Z76,General Internal Medicine,Stable,5,1.0,Treatment,Theatre slot availability,Low,current,0.525095199340889,16,Acuity=5|Complexity=0.87|Vitals=Stable,33
+SP0788,70,F,1.19,4,R00-R09,General Internal Medicine,Stable,24,0.0,Treatment,No Blocker,High,current,0.5187397851190955,17,Acuity=4|Complexity=1.19|Vitals=Stable,34
+SP0967,49,M,1.18,5,G40-G47,General Internal Medicine,,118,,,,Low,coming,0.5166532701015459,18,Acuity=5|Complexity=1.18|Vitals=nan,36
+SP0800,50,F,0.78,5,N80-N98,General Internal Medicine,Stable,20,1.0,Treatment,No Blocker,Low,current,0.5108921609999196,19,Acuity=5|Complexity=0.78|Vitals=Stable,38
+SP0746,77,F,0.72,5,D10-D36,General Internal Medicine,Stable,61,2.0,Review,Awaiting Test Results,High,current,0.5106879471103609,20,Acuity=5|Complexity=0.72|Vitals=Stable,39
+SP0848,58,F,1.15,4,D10-D36,General Internal Medicine,Stable,6,0.0,Review,No Blocker,Low,current,0.5058844412292688,21,Acuity=4|Complexity=1.15|Vitals=Stable,41
+SP0949,13,F,1.15,5,Z30-Z39,General Internal Medicine,,94,,,,Low,coming,0.5042266162955819,22,Acuity=5|Complexity=1.15|Vitals=nan,43
+SP0908,2,M,1.25,5,N17-N19,General Internal Medicine,,13,,,,Low,coming,0.5029432253570185,23,Acuity=5|Complexity=1.25|Vitals=nan,44
+SP0923,84,F,1.17,5,R10-R19,General Internal Medicine,,45,,,,Low,coming,0.49526967285587975,24,Acuity=5|Complexity=1.17|Vitals=nan,46
+SP0959,4,M,1.24,4,Z30-Z39,General Internal Medicine,,255,,,,High,coming,0.49011400476917716,25,Acuity=4|Complexity=1.24|Vitals=nan,47
+SP0817,38,M,1.23,5,N30-N39,General Internal Medicine,Improving,93,0.0,Diagnostics/Investigation,Staff Availability,High,current,0.47012298046780804,26,Acuity=5|Complexity=1.23|Vitals=Improving,55
+SP0858,26,F,1.43,4,N10-N16,General Internal Medicine,Improving,197,1.0,Review,Awaiting Test Results,High,current,0.4641548944350668,27,Acuity=4|Complexity=1.43|Vitals=Improving,59
+SP0714,79,M,1.26,5,R00-R09,General Internal Medicine,Improving,25,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.45814645124989956,28,Acuity=5|Complexity=1.26|Vitals=Improving,62
+SP0806,17,F,0.52,5,D50-D53,General Internal Medicine,Stable,19,1.0,Diagnostics/Investigation,No Blocker,High,current,0.4581016564852771,29,Acuity=5|Complexity=0.52|Vitals=Stable,63
+SP0851,66,M,0.99,3,G60-G64,General Internal Medicine,Stable,202,7.0,Discharge,Awaiting Social Care,High,current,0.45784226549312756,30,Acuity=3|Complexity=0.99|Vitals=Stable,64
+SP0952,48,F,0.94,5,C50,General Internal Medicine,,63,,,,Low,coming,0.45357956220025186,31,Acuity=5|Complexity=0.94|Vitals=nan,66
+SP0809,74,F,0.86,4,N30-N39,General Internal Medicine,Stable,12,0.0,Review,Awaiting Test Results,High,current,0.44889009457974977,32,Acuity=4|Complexity=0.86|Vitals=Stable,69
+SP0737,57,M,1.2,5,C81-C96,General Internal Medicine,Improving,21,3.0,Review,Awaiting Test Results,Low,current,0.44808923117112764,33,Acuity=5|Complexity=1.2|Vitals=Improving,71
+SP0835,64,F,1.47,4,A00-A09,General Internal Medicine,Improving,5,24.0,Discharge,Staff Availability,Low,current,0.4452656538863436,34,Acuity=4|Complexity=1.47|Vitals=Improving,72
+SP0919,28,F,0.95,5,N80-N98,General Internal Medicine,,22,,,,Low,coming,0.44472443265546713,35,Acuity=5|Complexity=0.95|Vitals=nan,74
+SP0861,39,M,1.12,5,J30-J39,General Internal Medicine,Improving,77,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.4436567264153471,36,Acuity=5|Complexity=1.12|Vitals=Improving,76
+SP0997,24,F,0.96,5,O60-O75,General Internal Medicine,,10,,,,Low,coming,0.44356161080299006,37,Acuity=5|Complexity=0.96|Vitals=nan,77
+SP0804,29,F,0.84,4,L00-L08,General Internal Medicine,Stable,1,0.0,Review,No Blocker,Low,current,0.4419319186560566,38,Acuity=4|Complexity=0.84|Vitals=Stable,79
+SP0880,55,M,1.47,4,Z00-Z13,General Internal Medicine,Improving,53,0.0,Treatment,Theatre slot availability,High,current,0.4329977493770597,39,Acuity=4|Complexity=1.47|Vitals=Improving,82
+SP0755,11,F,1.36,4,Z30-Z39,General Internal Medicine,Improving,133,0.0,Treatment,Theatre slot availability,Low,current,0.43199568630603113,40,Acuity=4|Complexity=1.36|Vitals=Improving,83
+SP0894,57,F,1.13,3,L50-L54,General Internal Medicine,Stable,13,1.0,Review,No Blocker,High,current,0.42974246778126085,41,Acuity=3|Complexity=1.13|Vitals=Stable,84
+SP0907,25,M,0.83,5,J00-J06,General Internal Medicine,,49,,,,Low,coming,0.42764381212657077,42,Acuity=5|Complexity=0.83|Vitals=nan,86
+SP0995,9,M,0.8,5,L00-L08,General Internal Medicine,,66,,,,Low,coming,0.4260924898855933,43,Acuity=5|Complexity=0.8|Vitals=nan,87
+SP0885,52,F,1.47,4,N70-N77,General Internal Medicine,Improving,13,1.0,Discharge,No Blocker,Low,current,0.4234293364681296,44,Acuity=4|Complexity=1.47|Vitals=Improving,89
+SP0924,27,F,0.86,5,O20-O29,General Internal Medicine,,0,,,,High,coming,0.4207070707070707,45,Acuity=5|Complexity=0.86|Vitals=nan,90
+SP0743,1,M,1.08,5,R10-R19,General Internal Medicine,Improving,15,1.0,Discharge,Awaiting Social Care,High,current,0.42017196165903065,46,Acuity=5|Complexity=1.08|Vitals=Improving,92
+SP0736,60,M,1.13,4,C64-C68,General Internal Medicine,Improving,239,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.4136477507167162,47,Acuity=4|Complexity=1.13|Vitals=Improving,96
+SP0728,73,F,1.36,2,R00-R09,General Internal Medicine,Stable,54,2.0,Discharge,Staff Availability,Low,current,0.4131241124775607,48,Acuity=2|Complexity=1.36|Vitals=Stable,97
+SP0706,22,F,1.02,5,R10-R19,General Internal Medicine,Improving,26,2.0,Treatment,No Blocker,Low,current,0.4120101880877743,49,Acuity=5|Complexity=1.02|Vitals=Improving,99
+SP0826,29,M,1.39,4,L60-L75,General Internal Medicine,Improving,25,0.0,Treatment,No Blocker,Low,current,0.4094090775125258,50,Acuity=4|Complexity=1.39|Vitals=Improving,101
+SP0979,58,F,0.77,5,L60-L75,General Internal Medicine,,12,,,,Low,coming,0.40570827639793156,51,Acuity=5|Complexity=0.77|Vitals=nan,103
+SP0874,66,F,1.02,5,D10-D36,General Internal Medicine,Improving,4,0.0,Diagnostics/Investigation,Staff Availability,Low,current,0.4040913109878627,52,Acuity=5|Complexity=1.02|Vitals=Improving,106
+SP0775,21,M,1.18,2,N10-N16,General Internal Medicine,Stable,123,1.0,Discharge,No Blocker,Low,current,0.39402119671516217,53,Acuity=2|Complexity=1.18|Vitals=Stable,110
+SP0795,62,F,1.32,4,R00-R09,General Internal Medicine,Improving,7,1.0,Diagnostics/Investigation,No Blocker,Low,current,0.39153479422875975,54,Acuity=4|Complexity=1.32|Vitals=Improving,112
+SP0989,41,M,0.99,4,G90-G99,General Internal Medicine,,73,,,,Low,coming,0.39133309219516116,55,Acuity=4|Complexity=0.99|Vitals=nan,113
+SP0794,31,F,0.94,5,O30-O48,General Internal Medicine,Improving,14,0.0,Review,Awaiting Test Results,Low,current,0.39058221472014576,56,Acuity=5|Complexity=0.94|Vitals=Improving,114
+SP0725,37,F,0.91,3,N80-N98,General Internal Medicine,Stable,19,1.0,Discharge,No Blocker,Low,current,0.38688953527315595,57,Acuity=3|Complexity=0.91|Vitals=Stable,115
+SP0824,54,F,0.93,5,C81-C96,General Internal Medicine,Improving,5,0.0,Review,No Blocker,Low,current,0.3861747447954345,58,Acuity=5|Complexity=0.93|Vitals=Improving,116
+SP1000,78,M,0.67,5,N10-N16,General Internal Medicine,,11,,,,Low,coming,0.3852410042065214,59,Acuity=5|Complexity=0.67|Vitals=nan,117
+SP0768,77,M,0.89,1,C64-C68,General Internal Medicine,Deteriorating,17,1.0,Treatment,Theatre slot availability,High,current,0.3823186272539721,60,Acuity=1|Complexity=0.89|Vitals=Deteriorating,119
+SP0960,39,F,1.02,4,N80-N98,General Internal Medicine,,7,,,,Low,coming,0.3798870669560324,61,Acuity=4|Complexity=1.02|Vitals=nan,120
+SP0866,77,F,1.24,2,D37-D48,General Internal Medicine,Stable,5,4.0,Discharge,No Blocker,Low,current,0.3779676740883638,62,Acuity=2|Complexity=1.24|Vitals=Stable,121
+SP0966,53,M,1.12,3,Z00-Z13,General Internal Medicine,,195,,,,Low,coming,0.37495646116335773,63,Acuity=3|Complexity=1.12|Vitals=nan,122
+SP0779,64,M,1.29,3,L80-L99,General Internal Medicine,Improving,217,0.0,Treatment,Theatre slot availability,High,current,0.36513543927337033,64,Acuity=3|Complexity=1.29|Vitals=Improving,124
+SP0954,59,F,0.91,4,C50,General Internal Medicine,,30,,,,High,coming,0.3637656404897784,65,Acuity=4|Complexity=0.91|Vitals=nan,125
+SP0701,63,F,1.18,4,N80-N98,General Internal Medicine,Improving,9,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.3627408032580446,66,Acuity=4|Complexity=1.18|Vitals=Improving,126
+SP0732,44,F,1.07,4,R00-R09,General Internal Medicine,Improving,90,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.36200399217640594,67,Acuity=4|Complexity=1.07|Vitals=Improving,127
+SP0753,16,F,0.73,5,J00-J06,General Internal Medicine,Improving,23,1.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.3515869068670793,68,Acuity=5|Complexity=0.73|Vitals=Improving,133
+SP0932,32,F,1.18,3,C97-C97,General Internal Medicine,,60,,,,Low,coming,0.3512686547169306,69,Acuity=3|Complexity=1.18|Vitals=nan,134
+SP0991,87,M,1.17,3,Z00-Z13,General Internal Medicine,,52,,,,Low,coming,0.3471264367816092,70,Acuity=3|Complexity=1.17|Vitals=nan,137
+SP0761,76,M,1.03,4,C45-C49,General Internal Medicine,Improving,40,1.0,Discharge,Staff Availability,Low,current,0.34170225129276854,71,Acuity=4|Complexity=1.03|Vitals=Improving,140
+SP0856,64,M,0.66,3,N20-N23,General Internal Medicine,Stable,36,0.0,Treatment,No Blocker,Low,current,0.33985210192106746,72,Acuity=3|Complexity=0.66|Vitals=Stable,143
+SP0727,11,F,0.56,5,Z30-Z39,General Internal Medicine,Improving,101,1.0,Treatment,No Blocker,High,current,0.3379331276960587,73,Acuity=5|Complexity=0.56|Vitals=Improving,145
+SP0810,67,M,1.42,1,J40-J47,General Internal Medicine,Stable,2,2.0,Diagnostics/Investigation,No Blocker,Low,current,0.336452221150497,74,Acuity=1|Complexity=1.42|Vitals=Stable,146
+SP0822,75,F,1.04,4,N10-N16,General Internal Medicine,Improving,16,0.0,Treatment,No Blocker,Low,current,0.3363147389009458,75,Acuity=4|Complexity=1.04|Vitals=Improving,147
+SP0913,90,M,1.16,3,L00-L08,General Internal Medicine,,6,,,,Low,coming,0.3329046432494708,76,Acuity=3|Complexity=1.16|Vitals=nan,148
+SP0801,96,F,1.39,3,D50-D53,General Internal Medicine,Improving,11,1.0,Review,Staff Availability,High,current,0.33173721632773356,77,Acuity=3|Complexity=1.39|Vitals=Improving,149
+SP0865,82,M,1.36,3,L00-L08,General Internal Medicine,Improving,1,2.0,Discharge,Staff Availability,Low,current,0.324065757039895,78,Acuity=3|Complexity=1.36|Vitals=Improving,154
+SP0730,87,M,0.98,4,R40-R46,General Internal Medicine,Improving,11,1.0,Discharge,Staff Availability,Low,current,0.3239089334994507,79,Acuity=4|Complexity=0.98|Vitals=Improving,155
+SP0816,13,F,0.62,3,O30-O48,General Internal Medicine,Stable,5,0.0,Diagnostics/Investigation,Staff Availability,Low,current,0.3235484821691718,80,Acuity=3|Complexity=0.62|Vitals=Stable,156
+SP0868,40,F,0.94,4,O60-O75,General Internal Medicine,Improving,27,1.0,Review,No Blocker,High,current,0.3200721572488814,81,Acuity=4|Complexity=0.94|Vitals=Improving,158
+SP0934,76,F,1.46,2,L80-L99,General Internal Medicine,,8,,,,High,coming,0.3190412078343113,82,Acuity=2|Complexity=1.46|Vitals=nan,159
+SP0939,21,F,0.72,4,J20-J22,General Internal Medicine,,5,,,,High,coming,0.318750502371192,83,Acuity=4|Complexity=0.72|Vitals=nan,160
+SP0862,55,F,0.57,3,R25-R29,General Internal Medicine,Stable,4,1.0,Discharge,Awaiting Social Care,High,current,0.3142238867454385,84,Acuity=3|Complexity=0.57|Vitals=Stable,161
+SP0955,79,M,1.05,3,C81-C96,General Internal Medicine,,13,,,,Low,coming,0.31253918495297806,85,Acuity=3|Complexity=1.05|Vitals=nan,162
+SP0758,8,M,1.26,3,R40-R46,General Internal Medicine,Improving,10,1.0,Treatment,Theatre slot availability,High,current,0.3052093380757174,86,Acuity=3|Complexity=1.26|Vitals=Improving,166
+SP0916,28,F,1.01,3,O85-O92,General Internal Medicine,,1,,,,Low,coming,0.30127535299949093,87,Acuity=3|Complexity=1.01|Vitals=nan,168
+SP0716,76,F,0.84,2,C50,General Internal Medicine,Stable,24,3.0,Review,No Blocker,Low,current,0.3011577144120247,88,Acuity=2|Complexity=0.84|Vitals=Stable,169
+SP0926,23,F,0.96,3,O60-O75,General Internal Medicine,,37,,,,Low,coming,0.30072341451651796,89,Acuity=3|Complexity=0.96|Vitals=nan,170
+SP0710,2,M,1.24,3,R20-R23,General Internal Medicine,Improving,10,0.0,Treatment,Theatre slot availability,High,current,0.30012726736864664,90,Acuity=3|Complexity=1.24|Vitals=Improving,171
+SP0765,70,M,1.24,3,N30-N39,General Internal Medicine,Improving,5,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.2988010074216971,91,Acuity=3|Complexity=1.24|Vitals=Improving,172
+SP0936,64,F,1.29,2,D10-D36,General Internal Medicine,,58,,,,Low,coming,0.297960372960373,92,Acuity=2|Complexity=1.29|Vitals=nan,173
+SP0715,86,M,0.78,4,N17-N19,General Internal Medicine,Improving,65,1.0,Treatment,Theatre slot availability,High,current,0.297828500522466,93,Acuity=4|Complexity=0.78|Vitals=Improving,174
+SP0829,29,F,1.2,1,O20-O29,General Internal Medicine,Stable,2,1.0,Discharge,No Blocker,Low,current,0.2909661100393859,94,Acuity=1|Complexity=1.2|Vitals=Stable,178
+SP0886,72,M,1.5,2,C30-C39,General Internal Medicine,Improving,5,12.0,Discharge,No Blocker,Low,current,0.28882625994694966,95,Acuity=2|Complexity=1.5|Vitals=Improving,179
+SP0785,20,F,1.06,1,Z00-Z13,General Internal Medicine,Stable,70,1.0,Discharge,No Blocker,Low,current,0.2807204170350722,96,Acuity=1|Complexity=1.06|Vitals=Stable,180
+SP0947,6,F,0.88,3,N80-N98,General Internal Medicine,,17,,,,Low,coming,0.2792567585671034,97,Acuity=3|Complexity=0.88|Vitals=nan,182
+SP0970,66,M,0.88,3,C15-C26,General Internal Medicine,,3,,,,Low,coming,0.2755432307156445,98,Acuity=3|Complexity=0.88|Vitals=nan,184
+SP0772,79,M,1.11,1,C64-C68,General Internal Medicine,Stable,7,0.0,Treatment,No Blocker,Low,current,0.27306888513785066,99,Acuity=1|Complexity=1.11|Vitals=Stable,185
+SP0771,60,M,1.05,3,D50-D53,General Internal Medicine,Improving,15,2.0,Diagnostics/Investigation,Staff Availability,Low,current,0.26515302226509124,100,Acuity=3|Complexity=1.05|Vitals=Improving,186
+SP0781,16,M,0.61,4,R30-R39,General Internal Medicine,Improving,70,1.0,Diagnostics/Investigation,Radiology Capacity,High,current,0.26481132612598124,101,Acuity=4|Complexity=0.61|Vitals=Improving,187
+SP0898,20,F,1.03,3,N70-N77,General Internal Medicine,Improving,34,0.0,Review,Awaiting Test Results,Low,current,0.2640690726897624,102,Acuity=3|Complexity=1.03|Vitals=Improving,188
+SP0831,81,M,0.53,4,C81-C96,General Internal Medicine,Improving,120,3.0,Discharge,No Blocker,Low,current,0.26399564276719445,103,Acuity=4|Complexity=0.53|Vitals=Improving,189
+SP0889,41,M,0.57,1,C69-C72,General Internal Medicine,Stable,377,0.0,Diagnostics/Investigation,Staff Availability,Low,current,0.2621212121212121,104,Acuity=1|Complexity=0.57|Vitals=Stable,191
+SP0922,62,F,0.52,3,Z40-Z54,General Internal Medicine,,226,,,,Low,coming,0.26196715162232403,105,Acuity=3|Complexity=0.52|Vitals=nan,192
+SP0847,38,M,1.41,2,Z30-Z39,General Internal Medicine,Improving,19,0.0,Treatment,Theatre slot availability,High,current,0.2618579696165903,106,Acuity=2|Complexity=1.41|Vitals=Improving,193
+SP0754,83,M,1.41,2,J40-J47,General Internal Medicine,Improving,12,0.0,Assessment,No Blocker,High,current,0.2600012056908609,107,Acuity=2|Complexity=1.41|Vitals=Improving,194
+SP0958,63,M,1.48,1,R10-R19,General Internal Medicine,,33,,,,High,coming,0.25471291160946335,108,Acuity=1|Complexity=1.48|Vitals=nan,196
+SP0792,22,F,1.02,3,O30-O48,General Internal Medicine,Improving,2,0.0,Diagnostics/Investigation,No Blocker,High,current,0.2535608070090829,109,Acuity=3|Complexity=1.02|Vitals=Improving,197
+SP0742,94,M,1.0,3,J09-J18,General Internal Medicine,Improving,1,2.0,Treatment,No Blocker,Low,current,0.25133848431262223,110,Acuity=3|Complexity=1.0|Vitals=Improving,199
+SP0883,41,F,0.61,2,L60-L75,General Internal Medicine,Stable,18,1.0,Discharge,Staff Availability,Low,current,0.25101822267770546,111,Acuity=2|Complexity=0.61|Vitals=Stable,200
+SP0891,51,F,0.97,3,J20-J22,General Internal Medicine,Improving,26,1.0,Assessment,No Blocker,Low,current,0.25086751132009755,112,Acuity=3|Complexity=0.97|Vitals=Improving,201
+SP0786,47,M,1.13,2,C81-C96,General Internal Medicine,Improving,0,46.0,Discharge,No Blocker,Low,current,0.2481691919191919,113,Acuity=2|Complexity=1.13|Vitals=Improving,203
+SP0882,22,F,1.36,2,O85-O92,General Internal Medicine,Improving,1,1.0,Discharge,Awaiting Social Care,High,current,0.2480240903732283,114,Acuity=2|Complexity=1.36|Vitals=Improving,204
+SP0759,99,M,0.98,3,A30-A49,General Internal Medicine,Improving,11,0.0,Treatment,Theatre slot availability,Low,current,0.24786726683278407,115,Acuity=3|Complexity=0.98|Vitals=Improving,205
+SP0867,72,F,0.95,3,J09-J18,General Internal Medicine,Improving,21,1.0,Discharge,Awaiting Social Care,High,current,0.24550084733274385,116,Acuity=3|Complexity=0.95|Vitals=Improving,207
+SP0946,80,F,0.71,3,R10-R19,General Internal Medicine,,8,,,,High,coming,0.2425260563191598,117,Acuity=3|Complexity=0.71|Vitals=nan,210
+SP0819,30,F,0.58,2,O20-O29,General Internal Medicine,Stable,4,1.0,Discharge,Staff Availability,Low,current,0.24124408876564046,118,Acuity=2|Complexity=0.58|Vitals=Stable,211
+SP0854,61,F,0.83,3,D00-D09,General Internal Medicine,Improving,99,0.0,Treatment,No Blocker,Low,current,0.24090641159606677,119,Acuity=3|Complexity=0.83|Vitals=Improving,212
+SP0897,80,M,0.57,4,A00-A09,General Internal Medicine,Improving,10,0.0,Diagnostics/Investigation,No Blocker,High,current,0.2397737320151113,120,Acuity=4|Complexity=0.57|Vitals=Improving,213
+SP0875,46,F,1.3,2,E70-E90,General Internal Medicine,Improving,4,0.0,Treatment,No Blocker,Low,current,0.2356569675535193,121,Acuity=2|Complexity=1.3|Vitals=Improving,215
+SP0860,69,M,0.9,3,J09-J18,General Internal Medicine,Improving,2,2.0,Diagnostics/Investigation,No Blocker,Low,current,0.23140171609999197,122,Acuity=3|Complexity=0.9|Vitals=Improving,217
+SP0841,25,M,1.25,2,R30-R39,General Internal Medicine,Improving,22,0.0,Treatment,No Blocker,Low,current,0.23033049326152777,123,Acuity=2|Complexity=1.25|Vitals=Improving,218
+SP0925,29,F,0.64,3,O20-O29,General Internal Medicine,,2,,,,High,coming,0.22679313024140613,124,Acuity=3|Complexity=0.64|Vitals=nan,219
+SP0813,84,F,0.85,3,N30-N39,General Internal Medicine,Improving,6,6.0,Discharge,Awaiting Social Care,High,current,0.2265283806232082,125,Acuity=3|Complexity=0.85|Vitals=Improving,220
+SP0702,56,M,1.24,2,D10-D36,General Internal Medicine,Improving,2,1.0,Treatment,No Blocker,High,current,0.224046918120194,126,Acuity=2|Complexity=1.24|Vitals=Improving,223
+SP0828,80,F,1.43,1,D50-D53,General Internal Medicine,Improving,110,2.0,Discharge,Awaiting Social Care,High,current,0.21711963802481044,127,Acuity=1|Complexity=1.43|Vitals=Improving,225
+SP0863,84,M,1.4,1,C15-C26,General Internal Medicine,Improving,73,17.0,Treatment,Staff Availability,High,current,0.21686970835677732,128,Acuity=1|Complexity=1.4|Vitals=Improving,226
+SP0783,71,F,1.02,2,G40-G47,General Internal Medicine,Improving,143,0.0,Assessment,Bed Availability,Low,current,0.21596133751306165,129,Acuity=2|Complexity=1.02|Vitals=Improving,228
+SP0943,65,F,1.29,1,N10-N16,General Internal Medicine,,19,,,,High,coming,0.2126155453741661,130,Acuity=1|Complexity=1.29|Vitals=nan,231
+SP0940,28,F,0.91,2,R10-R19,General Internal Medicine,,18,,,,Low,coming,0.21058261661709943,131,Acuity=2|Complexity=0.91|Vitals=nan,232
+SP0945,3,F,0.52,3,Z30-Z39,General Internal Medicine,,14,,,,High,coming,0.20573372987166094,132,Acuity=3|Complexity=0.52|Vitals=nan,234
+SP0799,59,F,0.69,3,D10-D36,General Internal Medicine,Improving,27,3.0,Discharge,No Blocker,Low,current,0.19665044007716417,133,Acuity=3|Complexity=0.69|Vitals=Improving,240
+SP0770,70,M,1.23,1,J09-J18,General Internal Medicine,Improving,2,45.0,Discharge,Awaiting Social Care,High,current,0.19286004943332533,134,Acuity=1|Complexity=1.23|Vitals=Improving,241
+SP0965,24,F,1.11,1,N10-N16,General Internal Medicine,,45,,,,Low,coming,0.18314846073466767,135,Acuity=1|Complexity=1.11|Vitals=nan,243
+SP0729,33,F,0.66,3,O30-O48,General Internal Medicine,Improving,10,0.0,Treatment,No Blocker,Low,current,0.1829555501969295,136,Acuity=3|Complexity=0.66|Vitals=Improving,245
+SP0705,96,F,0.65,1,D60-D64,General Internal Medicine,Stable,6,2.0,Discharge,No Blocker,Low,current,0.18195767355250114,137,Acuity=1|Complexity=0.65|Vitals=Stable,246
+SP0747,37,F,1.38,1,A00-A09,General Internal Medicine,Improving,8,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.17787959167269513,138,Acuity=1|Complexity=1.38|Vitals=Improving,248
+SP0745,69,F,0.57,3,G50-G59,General Internal Medicine,Improving,37,3.0,Diagnostics/Investigation,Staff Availability,Low,current,0.17506053572863917,139,Acuity=3|Complexity=0.57|Vitals=Improving,250
+SP0933,29,F,1.11,1,O30-O48,General Internal Medicine,,1,,,,High,coming,0.17147737320151119,140,Acuity=1|Complexity=1.11|Vitals=nan,251
+SP0811,28,M,0.86,2,Z30-Z39,General Internal Medicine,Improving,67,1.0,Diagnostics/Investigation,No Blocker,High,current,0.16452062066286202,141,Acuity=2|Complexity=0.86|Vitals=Improving,255
+SP0981,33,M,0.7,2,B25-B34,General Internal Medicine,,0,,,,Low,coming,0.16338383838383838,142,Acuity=2|Complexity=0.7|Vitals=nan,256
+SP0796,9,M,0.52,3,R70-R79,General Internal Medicine,Improving,27,1.0,Discharge,Awaiting Social Care,High,current,0.16022367240039653,143,Acuity=3|Complexity=0.52|Vitals=Improving,258
+SP0708,73,F,1.17,1,R00-R09,General Internal Medicine,Improving,70,1.0,Discharge,Awaiting Social Care,High,current,0.15294263925729443,144,Acuity=1|Complexity=1.17|Vitals=Improving,260
+SP0760,28,F,0.83,2,Z30-Z39,General Internal Medicine,Improving,34,0.0,Review,Awaiting Test Results,Low,current,0.14866503228572192,145,Acuity=2|Complexity=0.83|Vitals=Improving,261
+SP0844,35,M,0.69,2,N20-N23,General Internal Medicine,Improving,135,0.0,Treatment,Theatre slot availability,Low,current,0.14717265493127563,146,Acuity=2|Complexity=0.69|Vitals=Improving,262
+SP0984,74,F,0.94,1,C50,General Internal Medicine,,24,,,,Low,coming,0.14323473461404496,147,Acuity=1|Complexity=0.94|Vitals=nan,263
+SP0773,83,F,0.78,2,C76-C80,General Internal Medicine,Improving,6,10.0,Diagnostics/Investigation,No Blocker,Low,current,0.14155363314846073,148,Acuity=2|Complexity=0.78|Vitals=Improving,264
+SP0902,75,M,0.54,2,D37-D48,General Internal Medicine,,28,,,,Low,coming,0.13848766176352384,149,Acuity=2|Complexity=0.54|Vitals=nan,266
+SP0837,80,F,0.75,2,C81-C96,General Internal Medicine,Improving,19,5.0,Treatment,Theatre slot availability,Low,current,0.1337329696165903,150,Acuity=2|Complexity=0.75|Vitals=Improving,269
+SP0963,69,F,0.79,1,C81-C96,General Internal Medicine,,86,,,,Low,coming,0.12937732765318974,151,Acuity=1|Complexity=0.79|Vitals=nan,272
+SP0718,78,M,0.74,2,D60-D64,General Internal Medicine,Improving,16,2.0,Review,Staff Availability,Low,current,0.12779201162821852,152,Acuity=2|Complexity=0.74|Vitals=Improving,274
+SP0789,74,F,1.08,1,C30-C39,General Internal Medicine,Improving,14,1.0,Treatment,No Blocker,Low,current,0.11990670966964072,153,Acuity=1|Complexity=1.08|Vitals=Improving,276
+SP0797,41,M,0.92,1,G40-G47,General Internal Medicine,Improving,42,19.0,Treatment,No Blocker,High,current,0.11376053304932617,154,Acuity=1|Complexity=0.92|Vitals=Improving,278
+SP0873,5,F,0.63,2,O60-O75,General Internal Medicine,Improving,3,8.0,Discharge,No Blocker,Low,current,0.10837151354392734,155,Acuity=2|Complexity=0.63|Vitals=Improving,279
+SP0839,81,M,1.0,1,E70-E90,General Internal Medicine,Improving,18,1.0,Discharge,No Blocker,Low,current,0.10480610146558424,156,Acuity=1|Complexity=1.0|Vitals=Improving,281
+SP0961,74,F,0.75,1,R25-R29,General Internal Medicine,,6,,,,Low,coming,0.10007636042118802,157,Acuity=1|Complexity=0.75|Vitals=nan,283
+SP0992,78,M,0.72,1,C30-C39,General Internal Medicine,,24,,,,Low,coming,0.09879029016960052,158,Acuity=1|Complexity=0.72|Vitals=nan,284
+SP0764,63,F,0.86,1,C50,General Internal Medicine,Improving,81,0.0,Assessment,No Blocker,Low,current,0.09219248184765426,159,Acuity=1|Complexity=0.86|Vitals=Improving,287
+SP0713,71,M,0.86,1,C76-C80,General Internal Medicine,Improving,49,1.0,Diagnostics/Investigation,No Blocker,High,current,0.08474608485384347,160,Acuity=1|Complexity=0.86|Vitals=Improving,289
+SP0971,38,F,0.67,1,O00-O08,General Internal Medicine,,3,,,,Low,coming,0.0831189882914021,161,Acuity=1|Complexity=0.67|Vitals=nan,291
+SP0871,3,M,0.79,1,R70-R79,General Internal Medicine,Improving,30,0.0,Treatment,Staff Availability,Low,current,0.06452321624735419,162,Acuity=1|Complexity=0.79|Vitals=Improving,294
+SP0840,79,M,0.77,1,E70-E90,General Internal Medicine,Improving,13,3.0,Treatment,Theatre slot availability,High,current,0.0590985283873215,163,Acuity=1|Complexity=0.77|Vitals=Improving,295
+SP0998,67,F,0.51,1,D10-D36,General Internal Medicine,,17,,,,High,coming,0.05450928381962865,164,Acuity=1|Complexity=0.51|Vitals=nan,298
+SP0734,44,F,0.65,1,N80-N98,General Internal Medicine,Improving,63,1.0,Discharge,No Blocker,Low,current,0.046035370281059945,165,Acuity=1|Complexity=0.65|Vitals=Improving,299
+SP0719,41,M,1.34,4,I70-I79,Geriatric Medicine,Improving,39,14.0,Discharge,Awaiting Social Care,High,current,0.5048139718978825,1,Acuity=4|Complexity=1.34|Vitals=Improving,42
+SP0733,61,F,1.42,4,I30-I52,Geriatric Medicine,Improving,276,1.0,Assessment,No Blocker,Low,current,0.47762738778471997,2,Acuity=4|Complexity=1.42|Vitals=Improving,53
+SP0731,66,F,0.85,4,I60-I69,Geriatric Medicine,Stable,1,3.0,Treatment,Theatre slot availability,High,current,0.46309523809523806,3,Acuity=4|Complexity=0.85|Vitals=Stable,60
+SP0722,68,M,1.21,5,R50-R69,Geriatric Medicine,Improving,64,0.0,Treatment,No Blocker,Low,current,0.4569694570881984,4,Acuity=5|Complexity=1.21|Vitals=Improving,65
+SP0977,81,F,1.21,4,I20-I25,Geriatric Medicine,,145,,,,Low,coming,0.4485338742661125,5,Acuity=4|Complexity=1.21|Vitals=nan,70
+SP0807,73,M,1.23,4,I80-I89,Geriatric Medicine,Improving,26,2.0,Treatment,Theatre slot availability,Low,current,0.39278528549753566,6,Acuity=4|Complexity=1.23|Vitals=Improving,111
+SP0756,57,M,1.34,3,I60-I69,Geriatric Medicine,Improving,142,1.0,Discharge,No Blocker,Low,current,0.3580202237237662,7,Acuity=3|Complexity=1.34|Vitals=Improving,130
+SP0704,15,M,1.47,3,R50-R69,Geriatric Medicine,Improving,12,0.0,Diagnostics/Investigation,No Blocker,High,current,0.35224948875255624,8,Acuity=3|Complexity=1.47|Vitals=Improving,132
+SP0870,83,M,0.71,4,I30-I52,Geriatric Medicine,Improving,34,11.0,Diagnostics/Investigation,Staff Availability,Low,current,0.3468790346140435,9,Acuity=4|Complexity=0.71|Vitals=Improving,138
+SP0750,60,F,1.34,3,I20-I25,Geriatric Medicine,Improving,42,2.0,Discharge,Staff Availability,Low,current,0.3447131831161121,10,Acuity=3|Complexity=1.34|Vitals=Improving,139
+SP0990,61,F,0.77,4,R50-R69,Geriatric Medicine,,19,,,,Low,coming,0.3281433471864898,11,Acuity=4|Complexity=0.77|Vitals=nan,152
+SP0931,50,M,0.96,3,I10-I15,Geriatric Medicine,,89,,,,Low,coming,0.3083184906656112,12,Acuity=3|Complexity=0.96|Vitals=nan,164
+SP0920,75,M,1.32,2,I30-I52,Geriatric Medicine,,68,,,,Low,coming,0.3064433669767135,13,Acuity=2|Complexity=1.32|Vitals=nan,165
+SP0777,90,M,1.18,3,F00-F09,Geriatric Medicine,Improving,8,1.0,Assessment,No Blocker,Low,current,0.2962087585875434,14,Acuity=3|Complexity=1.18|Vitals=Improving,175
+SP0790,82,M,0.75,4,I05-I09,Geriatric Medicine,Improving,29,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.27588726169272376,15,Acuity=4|Complexity=0.75|Vitals=Improving,183
+SP0849,48,M,0.84,1,I70-I79,Geriatric Medicine,Stable,21,2.0,Discharge,No Blocker,Low,current,0.23289182286807458,16,Acuity=1|Complexity=0.84|Vitals=Stable,216
+SP0968,33,M,0.84,2,I30-I52,Geriatric Medicine,,90,,,,High,coming,0.20771653803021306,17,Acuity=2|Complexity=0.84|Vitals=nan,233
+SP0953,66,M,0.56,3,R50-R69,Geriatric Medicine,,4,,,,Low,coming,0.20491457220133252,18,Acuity=3|Complexity=0.56|Vitals=nan,235
+SP0942,67,M,0.87,2,I26-I28,Geriatric Medicine,,14,,,,High,coming,0.19862622864305035,19,Acuity=2|Complexity=0.87|Vitals=nan,237
+SP0843,97,F,0.77,1,I30-I52,Geriatric Medicine,Improving,490,5.0,Discharge,Staff Availability,Low,current,0.1851766513056836,20,Acuity=1|Complexity=0.77|Vitals=Improving,242
+SP0910,84,F,1.13,1,R50-R69,Geriatric Medicine,,11,,,,High,coming,0.17892671020515866,21,Acuity=1|Complexity=1.13|Vitals=nan,247
+SP0956,22,M,0.7,2,R50-R69,Geriatric Medicine,,15,,,,Low,coming,0.1622715878356092,22,Acuity=2|Complexity=0.7|Vitals=nan,257
+SP0973,19,F,0.64,1,I80-I89,Geriatric Medicine,,61,,,,Low,coming,0.08377531499439278,23,Acuity=1|Complexity=0.64|Vitals=nan,290
+SP0855,71,M,0.89,1,R50-R69,Geriatric Medicine,Improving,24,0.0,Review,Staff Availability,Low,current,0.07997229368691866,24,Acuity=1|Complexity=0.89|Vitals=Improving,292
+SP0845,87,M,0.54,1,R50-R69,Geriatric Medicine,Improving,32,1.0,Review,No Blocker,High,current,0.01348232544551563,25,Acuity=1|Complexity=0.54|Vitals=Improving,300
+SP0821,84,M,1.36,5,H25-H28,Ophthalmology,Deteriorating,87,0.0,Treatment,No Blocker,Low,current,0.8025509330594077,1,Acuity=5|Complexity=1.36|Vitals=Deteriorating,1
+SP0769,39,F,1.45,5,H25-H28,Ophthalmology,Stable,20,1.0,Discharge,No Blocker,Low,current,0.7480208868344461,2,Acuity=5|Complexity=1.45|Vitals=Stable,4
+SP0780,74,F,1.43,4,H25-H28,Ophthalmology,Stable,126,1.0,Discharge,Staff Availability,Low,current,0.6799126861838726,3,Acuity=4|Complexity=1.43|Vitals=Stable,11
+SP0748,50,F,1.04,5,H25-H28,Ophthalmology,Stable,60,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.5787519260400616,4,Acuity=5|Complexity=1.04|Vitals=Stable,19
+SP0827,64,M,0.82,4,H25-H28,Ophthalmology,Stable,10,1.0,Discharge,Staff Availability,Low,current,0.5173583290532443,5,Acuity=4|Complexity=0.82|Vitals=Stable,35
+SP0982,97,F,1.25,5,H25-H28,Ophthalmology,,26,,,,Low,coming,0.5096507447354905,6,Acuity=5|Complexity=1.25|Vitals=nan,40
+SP0717,73,F,0.95,5,H25-H28,Ophthalmology,Improving,136,0.0,Treatment,Theatre slot availability,Low,current,0.4363328197226502,7,Acuity=5|Complexity=0.95|Vitals=Improving,81
+SP0957,64,F,0.77,4,H25-H28,Ophthalmology,,297,,,,Low,coming,0.4045454545454545,8,Acuity=4|Complexity=0.77|Vitals=nan,104
+SP0802,69,F,1.49,3,H30-H36,Ophthalmology,Improving,15,1.0,Review,Staff Availability,Low,current,0.4044067796610169,9,Acuity=3|Complexity=1.49|Vitals=Improving,105
+SP0911,74,M,0.5,5,H30-H36,Ophthalmology,,2,,,,Low,coming,0.35,10,Acuity=5|Complexity=0.5|Vitals=nan,136
+SP0901,100,M,0.62,4,H25-H28,Ophthalmology,,21,,,,High,coming,0.28068310220852594,11,Acuity=4|Complexity=0.62|Vitals=nan,181
+SP0757,83,M,1.17,3,H25-H28,Ophthalmology,Improving,64,0.0,Diagnostics/Investigation,No Blocker,High,current,0.2563704845060777,12,Acuity=3|Complexity=1.17|Vitals=Improving,195
+SP0766,70,M,0.95,3,H25-H28,Ophthalmology,Improving,103,0.0,Treatment,No Blocker,High,current,0.22514637904468415,13,Acuity=3|Complexity=0.95|Vitals=Improving,222
+SP0915,86,F,1.3,2,H25-H28,Ophthalmology,,8,,,,High,coming,0.21365005992124642,14,Acuity=2|Complexity=1.3|Vitals=nan,230
+SP0852,66,M,0.71,2,H25-H28,Ophthalmology,Improving,34,1.0,Discharge,Staff Availability,Low,current,0.15327170005136107,15,Acuity=2|Complexity=0.71|Vitals=Improving,259
+SP0787,12,M,1.29,4,Q38-Q45,Paediatrics,Improving,41,1.0,Assessment,No Blocker,High,current,0.5010232341551885,1,Acuity=4|Complexity=1.29|Vitals=Improving,45
+SP0752,16,F,0.66,5,P20-P29,Paediatrics,Stable,8,0.0,Assessment,Bed Availability,Low,current,0.4853463065536003,2,Acuity=5|Complexity=0.66|Vitals=Stable,49
+SP0974,5,F,1.42,4,Q80-Q89,Paediatrics,,60,,,,Low,coming,0.48142615558060875,3,Acuity=4|Complexity=1.42|Vitals=nan,50
+SP0842,34,F,0.93,4,Q38-Q45,Paediatrics,Stable,7,0.0,Treatment,Staff Availability,Low,current,0.4689292191559237,4,Acuity=4|Complexity=0.93|Vitals=Stable,56
+SP0900,8,M,0.61,5,Q20-Q28,Paediatrics,Improving,64,0.0,Treatment,No Blocker,High,current,0.3307901573452282,5,Acuity=5|Complexity=0.61|Vitals=Improving,151
+SP0834,13,F,0.5,1,P50-P61,Paediatrics,Stable,3,1.0,Review,Staff Availability,Low,current,0.25,6,Acuity=1|Complexity=0.5|Vitals=Stable,202
+SP0823,4,F,0.61,2,Q20-Q28,Paediatrics,Improving,159,1.0,Diagnostics/Investigation,No Blocker,Low,current,0.21650041664624284,7,Acuity=2|Complexity=0.61|Vitals=Improving,227
+SP0986,10,M,0.72,1,Q35-Q37,Paediatrics,,890,,,,Low,coming,0.19782608695652176,8,Acuity=1|Complexity=0.72|Vitals=nan,238
+SP0906,8,M,0.79,1,P20-P29,Paediatrics,,128,,,,Low,coming,0.12713592470957308,9,Acuity=1|Complexity=0.79|Vitals=nan,275
+SP0993,2,F,0.79,1,P20-P29,Paediatrics,,10,,,,High,coming,0.11383265526199697,10,Acuity=1|Complexity=0.79|Vitals=nan,277
+SP0703,73,M,1.41,5,M00-M25,Trauma and Orthopaedics,Improving,443,0.0,Treatment,Theatre slot availability,Low,current,0.5826086956521739,1,Acuity=5|Complexity=1.41|Vitals=Improving,18
+SP0803,73,F,1.49,5,M00-M25,Trauma and Orthopaedics,Improving,35,3.0,Discharge,Staff Availability,Low,current,0.567900677200903,2,Acuity=5|Complexity=1.49|Vitals=Improving,22
+SP0767,53,M,0.92,5,S90-S99,Trauma and Orthopaedics,Stable,0,2.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.5660869565217391,3,Acuity=5|Complexity=0.92|Vitals=Stable,23
+SP0996,87,F,1.46,5,S70-S79,Trauma and Orthopaedics,,59,,,,Low,coming,0.5567965452939445,4,Acuity=5|Complexity=1.46|Vitals=nan,25
+SP0938,55,M,1.26,5,T80-T88,Trauma and Orthopaedics,,131,,,,Low,coming,0.5295711060948082,5,Acuity=5|Complexity=1.26|Vitals=nan,30
+SP0969,67,F,1.31,5,M40-M54,Trauma and Orthopaedics,,66,,,,Low,coming,0.5257679850819511,6,Acuity=5|Complexity=1.31|Vitals=nan,31
+SP0903,56,M,1.17,5,M00-M25,Trauma and Orthopaedics,,146,,,,Low,coming,0.5133918932181765,7,Acuity=5|Complexity=1.17|Vitals=nan,37
+SP0937,54,M,1.18,5,M00-M25,Trauma and Orthopaedics,,20,,,,Low,coming,0.4871233683384041,8,Acuity=5|Complexity=1.18|Vitals=nan,48
+SP0751,89,F,1.37,3,S00-S09,Trauma and Orthopaedics,Stable,22,0.0,Treatment,No Blocker,Low,current,0.4788791834331142,9,Acuity=3|Complexity=1.37|Vitals=Stable,51
+SP0948,71,M,1.45,4,M00-M25,Trauma and Orthopaedics,,55,,,,High,coming,0.4787196977132201,10,Acuity=4|Complexity=1.45|Vitals=nan,52
+SP0941,64,F,1.41,4,M40-M54,Trauma and Orthopaedics,,35,,,,Low,coming,0.4655093728530768,11,Acuity=4|Complexity=1.41|Vitals=nan,58
+SP0735,79,F,1.23,2,M00-M25,Trauma and Orthopaedics,Stable,148,3.0,Discharge,Staff Availability,Low,current,0.4618868387476691,12,Acuity=2|Complexity=1.23|Vitals=Stable,61
+SP0950,30,F,1.29,4,M80-M94,Trauma and Orthopaedics,,55,,,,Low,coming,0.4439370890175679,13,Acuity=4|Complexity=1.29|Vitals=nan,75
+SP0782,90,F,1.19,3,S70-S79,Trauma and Orthopaedics,Improving,190,5.0,Treatment,Staff Availability,High,current,0.42767199921483956,14,Acuity=3|Complexity=1.19|Vitals=Improving,85
+SP0917,87,M,1.06,4,S20-S29,Trauma and Orthopaedics,,172,,,,Low,coming,0.4203479242320149,15,Acuity=4|Complexity=1.06|Vitals=nan,91
+SP0784,65,M,0.93,1,T80-T88,Trauma and Orthopaedics,Deteriorating,144,0.0,Diagnostics/Investigation,Staff Availability,Low,current,0.41076651290607524,16,Acuity=1|Complexity=0.93|Vitals=Deteriorating,100
+SP0987,42,M,1.17,4,S60-S69,Trauma and Orthopaedics,,3,,,,Low,coming,0.4061119835116302,17,Acuity=4|Complexity=1.17|Vitals=nan,102
+SP0820,78,F,1.11,4,M00-M25,Trauma and Orthopaedics,Improving,231,0.0,Treatment,No Blocker,Low,current,0.39453577387378547,18,Acuity=4|Complexity=1.11|Vitals=Improving,109
+SP0985,69,F,1.03,4,M00-M25,Trauma and Orthopaedics,,45,,,,High,coming,0.3851580135440181,19,Acuity=4|Complexity=1.03|Vitals=nan,118
+SP0726,56,F,0.75,3,T80-T88,Trauma and Orthopaedics,Stable,10,0.0,Diagnostics/Investigation,Radiology Capacity,Low,current,0.3413877711257239,20,Acuity=3|Complexity=0.75|Vitals=Stable,141
+SP0999,45,F,1.21,3,S80-S89,Trauma and Orthopaedics,,5,,,,High,coming,0.3402591029541662,21,Acuity=3|Complexity=1.21|Vitals=nan,142
+SP0749,59,F,1.33,3,M00-M25,Trauma and Orthopaedics,Improving,28,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.3215379330650702,22,Acuity=3|Complexity=1.33|Vitals=Improving,157
+SP0740,84,F,1.26,1,M80-M94,Trauma and Orthopaedics,Stable,39,0.0,Diagnostics/Investigation,Staff Availability,Low,current,0.308803611738149,23,Acuity=1|Complexity=1.26|Vitals=Stable,163
+SP0951,25,F,1.01,3,S90-S99,Trauma and Orthopaedics,,28,,,,Low,coming,0.3019727156737658,24,Acuity=3|Complexity=1.01|Vitals=nan,167
+SP0850,50,F,0.86,2,M60-M79,Trauma and Orthopaedics,Stable,18,0.0,Review,No Blocker,High,current,0.2921066836784768,25,Acuity=2|Complexity=0.86|Vitals=Stable,176
+SP0964,63,F,1.14,2,M00-M25,Trauma and Orthopaedics,,61,,,,High,coming,0.2626827951712631,26,Acuity=2|Complexity=1.14|Vitals=nan,190
+SP0976,83,F,1.16,2,S50-S59,Trauma and Orthopaedics,,1,,,,Low,coming,0.2534866031995289,27,Acuity=2|Complexity=1.16|Vitals=nan,198
+SP0724,80,F,0.96,3,S00-S09,Trauma and Orthopaedics,Improving,9,0.0,Review,Awaiting Test Results,High,current,0.2368142114044558,28,Acuity=3|Complexity=0.96|Vitals=Improving,214
+SP0962,38,M,1.28,1,M60-M79,Trauma and Orthopaedics,,96,,,,Low,coming,0.22601825498086175,29,Acuity=1|Complexity=1.28|Vitals=nan,221
+SP0846,93,F,0.83,3,M00-M25,Trauma and Orthopaedics,Improving,49,0.0,Diagnostics/Investigation,No Blocker,High,current,0.2175826872116989,30,Acuity=3|Complexity=0.83|Vitals=Improving,224
+SP0895,55,F,0.57,3,M00-M25,Trauma and Orthopaedics,Improving,128,1.0,Treatment,Theatre slot availability,High,current,0.1988939051918736,31,Acuity=3|Complexity=0.57|Vitals=Improving,236
+SP0980,62,M,0.72,2,S80-S89,Trauma and Orthopaedics,,113,,,,Low,coming,0.18311659632937483,32,Acuity=2|Complexity=0.72|Vitals=nan,244
+SP0944,87,M,1.02,1,M60-M79,Trauma and Orthopaedics,,122,,,,Low,coming,0.1753655903425263,33,Acuity=1|Complexity=1.02|Vitals=nan,249
+SP0909,73,M,1.12,1,S50-S59,Trauma and Orthopaedics,,7,,,,Low,coming,0.17114535283148496,34,Acuity=1|Complexity=1.12|Vitals=nan,252
+SP0805,28,M,1.29,1,M00-M25,Trauma and Orthopaedics,Improving,55,0.0,Review,No Blocker,Low,current,0.168937089017568,35,Acuity=1|Complexity=1.29|Vitals=Improving,253
+SP0905,46,F,0.94,1,M80-M94,Trauma and Orthopaedics,,39,,,,Low,coming,0.13923839434684465,36,Acuity=1|Complexity=0.94|Vitals=nan,265
+SP0720,59,M,0.68,1,M00-M25,Trauma and Orthopaedics,Improving,331,0.0,Diagnostics/Investigation,No Blocker,Low,current,0.0986308764353715,37,Acuity=1|Complexity=0.68|Vitals=Improving,285
+SP0972,49,M,0.61,1,S00-S09,Trauma and Orthopaedics,,0,,,,Low,coming,0.05869565217391305,38,Acuity=1|Complexity=0.61|Vitals=nan,296
