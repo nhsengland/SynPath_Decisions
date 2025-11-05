@@ -1,6 +1,8 @@
 import pandas as pd, numpy as np, math, re
 from pathlib import Path
 import random
+import os
+from matplotlib import pyplot as plt
 
 INPUT_CSV_HISTORIC = Path()
 INPUT_CSV_CURRENT = Path("data/scenarioA/ScenarioA_patients_current.csv")
