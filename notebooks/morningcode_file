@@ -3,5 +3,5 @@ from pathlib import Path
 import random
 
 INPUT_CSV_HISTORIC = Path()
-INPUT_CSV_CURRENT = Path()
+INPUT_CSV_CURRENT = Path("data/scenarioA/ScenarioA_patients_current.csv")
 INPUT_CSV_COMING = Path()
