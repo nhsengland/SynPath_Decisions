@@ -9,3 +9,6 @@ paths = {
     "coming": data_dir / "ScenarioA_patients_coming.csv",
     "historic": data_dir / "ScenarioA_patients_historic.csv"
 }
+
+
+dfs = {k: pd.read_csv(v) for k, v in paths.items()}
