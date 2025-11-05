@@ -1,0 +1,101 @@
+pseudo_patient_id,age,sex,Complexity,Acuity,Primary Diagnosis Summary,Speciality,Waiting Time (days),Discharge Dependence,Time since Admission (days),Vitals Trend,MCDA_score,mcda_rank_within_Speciality,tie_breaker
+SP0978,95,F,1.48,5,K20-K31,Gastronenterology,29,Low,0.0,Stable,0.8261306532663317,1,Acuity=5|Complexity=1.48|Vitals=Stable
+SP0914,52,F,1.37,5,K55-K64,Gastronenterology,3,Low,0.0,Stable,0.7641304347826088,2,Acuity=5|Complexity=1.37|Vitals=Stable
+SP0994,72,F,1.43,4,K90-K93,Gastronenterology,10,High,0.0,Stable,0.66573082805331,3,Acuity=4|Complexity=1.43|Vitals=Stable
+SP0921,50,F,1.25,4,K50-K52,Gastronenterology,55,Low,0.0,Stable,0.6522613065326633,4,Acuity=4|Complexity=1.25|Vitals=Stable
+SP0935,23,M,0.95,5,K20-K31,Gastronenterology,17,Low,0.0,Stable,0.6412442648022723,5,Acuity=5|Complexity=0.95|Vitals=Stable
+SP0904,76,F,1.11,2,K50-K52,Gastronenterology,202,Low,0.0,Stable,0.5043478260869565,6,Acuity=2|Complexity=1.11|Vitals=Stable
+SP0930,76,F,1.28,2,K80-K87,Gastronenterology,24,High,0.0,Stable,0.3808881363338431,7,Acuity=2|Complexity=1.28|Vitals=Stable
+SP0975,2,M,0.56,2,K00-K14,Gastronenterology,7,Low,0.0,Stable,0.12902010050251256,8,Acuity=2|Complexity=0.56|Vitals=Stable
+SP0928,62,F,0.94,1,K20-K31,Gastronenterology,6,High,0.0,Stable,0.12692811885514527,9,Acuity=1|Complexity=0.94|Vitals=Stable
+SP0988,62,M,0.64,1,K80-K87,Gastronenterology,80,Low,0.0,Stable,0.10347389119510596,10,Acuity=1|Complexity=0.64|Vitals=Stable
+SP0927,69,F,0.71,1,K55-K64,Gastronenterology,42,Low,0.0,Stable,0.08810902337775833,11,Acuity=1|Complexity=0.71|Vitals=Stable
+SP0918,36,M,0.64,1,K55-K64,Gastronenterology,41,Low,0.0,Stable,0.06427791129560848,12,Acuity=1|Complexity=0.64|Vitals=Stable
+SP0912,74,M,0.64,1,K55-K64,Gastronenterology,4,Low,0.0,Stable,0.02709198164736726,13,Acuity=1|Complexity=0.64|Vitals=Stable
+SP0983,15,F,1.18,5,Z30-Z39,General Internal Medicine,180,Low,0.0,Stable,0.8483929654335961,1,Acuity=5|Complexity=1.18|Vitals=Stable
+SP0929,79,M,1.37,5,C15-C26,General Internal Medicine,59,Low,0.0,Stable,0.8122538912472205,2,Acuity=5|Complexity=1.37|Vitals=Stable
+SP0959,4,M,1.24,4,Z30-Z39,General Internal Medicine,255,High,0.0,Stable,0.8007731958762887,3,Acuity=4|Complexity=1.24|Vitals=Stable
+SP0967,49,M,1.18,5,G40-G47,General Internal Medicine,118,Low,0.0,Stable,0.7997655144532039,4,Acuity=5|Complexity=1.18|Vitals=Stable
+SP0949,13,F,1.15,5,Z30-Z39,General Internal Medicine,94,Low,0.0,Stable,0.7716636345259753,5,Acuity=5|Complexity=1.15|Vitals=Stable
+SP0923,84,F,1.17,5,R10-R19,General Internal Medicine,45,Low,0.0,Stable,0.7394178289872649,6,Acuity=5|Complexity=1.17|Vitals=Stable
+SP0908,2,M,1.25,5,N17-N19,General Internal Medicine,13,Low,0.0,Stable,0.739062057812816,7,Acuity=5|Complexity=1.25|Vitals=Stable
+SP0952,48,F,0.94,5,C50,General Internal Medicine,63,Low,0.0,Stable,0.6824014554275318,8,Acuity=5|Complexity=0.94|Vitals=Stable
+SP0919,28,F,0.95,5,N80-N98,General Internal Medicine,22,Low,0.0,Stable,0.6533373761875884,9,Acuity=5|Complexity=0.95|Vitals=Stable
+SP0997,24,F,0.96,5,O60-O75,General Internal Medicine,10,Low,0.0,Stable,0.6470183949868606,10,Acuity=5|Complexity=0.96|Vitals=Stable
+SP0995,9,M,0.8,5,L00-L08,General Internal Medicine,66,Low,0.0,Stable,0.6414554275318375,11,Acuity=5|Complexity=0.8|Vitals=Stable
+SP0907,25,M,0.83,5,J00-J06,General Internal Medicine,49,Low,0.0,Stable,0.6374004447139681,12,Acuity=5|Complexity=0.83|Vitals=Stable
+SP0924,27,F,0.86,5,O20-O29,General Internal Medicine,0,High,0.0,Stable,0.6082474226804123,13,Acuity=5|Complexity=0.86|Vitals=Stable
+SP0966,53,M,1.12,3,Z00-Z13,General Internal Medicine,195,Low,0.0,Stable,0.5916009702850212,14,Acuity=3|Complexity=1.12|Vitals=Stable
+SP0979,58,F,0.77,5,L60-L75,General Internal Medicine,12,Low,0.0,Stable,0.5898241358399029,15,Acuity=5|Complexity=0.77|Vitals=Stable
+SP0989,41,M,0.99,4,G90-G99,General Internal Medicine,73,Low,0.0,Stable,0.580708510208207,16,Acuity=4|Complexity=0.99|Vitals=Stable
+SP1000,78,M,0.67,5,N10-N16,General Internal Medicine,11,Low,0.0,Stable,0.5581119870628665,17,Acuity=5|Complexity=0.67|Vitals=Stable
+SP0960,39,F,1.02,4,N80-N98,General Internal Medicine,7,Low,0.0,Stable,0.538222154841318,18,Acuity=4|Complexity=1.02|Vitals=Stable
+SP0954,59,F,0.91,4,C50,General Internal Medicine,30,High,0.0,Stable,0.5222407519708915,19,Acuity=4|Complexity=0.91|Vitals=Stable
+SP0932,32,F,1.18,3,C97-C97,General Internal Medicine,60,Low,0.0,Stable,0.5042753183747726,20,Acuity=3|Complexity=1.18|Vitals=Stable
+SP0991,87,M,1.17,3,Z00-Z13,General Internal Medicine,52,Low,0.0,Stable,0.4949080250656963,21,Acuity=3|Complexity=1.17|Vitals=Stable
+SP0913,90,M,1.16,3,L00-L08,General Internal Medicine,6,Low,0.0,Stable,0.45573681018799267,22,Acuity=3|Complexity=1.16|Vitals=Stable
+SP0939,21,F,0.72,4,J20-J22,General Internal Medicine,5,High,0.0,Stable,0.4438700222356984,23,Acuity=4|Complexity=0.72|Vitals=Stable
+SP0922,62,F,0.52,3,Z40-Z54,General Internal Medicine,226,Low,0.0,Stable,0.43034768546593893,24,Acuity=3|Complexity=0.52|Vitals=Stable
+SP0955,79,M,1.05,3,C81-C96,General Internal Medicine,13,Low,0.0,Stable,0.427206387709723,25,Acuity=3|Complexity=1.05|Vitals=Stable
+SP0934,76,F,1.46,2,L80-L99,General Internal Medicine,8,High,0.0,Stable,0.42508894279361226,26,Acuity=2|Complexity=1.46|Vitals=Stable
+SP0926,23,F,0.96,3,O60-O75,General Internal Medicine,37,Low,0.0,Stable,0.418194865575096,27,Acuity=3|Complexity=0.96|Vitals=Stable
+SP0936,64,F,1.29,2,D10-D36,General Internal Medicine,58,Low,0.0,Stable,0.41172730948049324,28,Acuity=2|Complexity=1.29|Vitals=Stable
+SP0916,28,F,1.01,3,O85-O92,General Internal Medicine,1,Low,0.0,Stable,0.40542348898322217,29,Acuity=3|Complexity=1.01|Vitals=Stable
+SP0947,6,F,0.88,3,N80-N98,General Internal Medicine,17,Low,0.0,Stable,0.377766323024055,30,Acuity=3|Complexity=0.88|Vitals=Stable
+SP0970,66,M,0.88,3,C15-C26,General Internal Medicine,3,Low,0.0,Stable,0.3667859308671923,31,Acuity=3|Complexity=0.88|Vitals=Stable
+SP0958,63,M,1.48,1,R10-R19,General Internal Medicine,33,High,0.0,Stable,0.32588235294117646,32,Acuity=1|Complexity=1.48|Vitals=Stable
+SP0946,80,F,0.71,3,R10-R19,General Internal Medicine,8,High,0.0,Stable,0.31813017990701437,33,Acuity=3|Complexity=0.71|Vitals=Stable
+SP0925,29,F,0.64,3,O20-O29,General Internal Medicine,2,High,0.0,Stable,0.2917748130179907,34,Acuity=3|Complexity=0.64|Vitals=Stable
+SP0945,3,F,0.52,3,Z30-Z39,General Internal Medicine,14,High,0.0,Stable,0.2640731756620174,35,Acuity=3|Complexity=0.52|Vitals=Stable
+SP0940,28,F,0.91,2,R10-R19,General Internal Medicine,18,Low,0.0,Stable,0.2628289872650091,36,Acuity=2|Complexity=0.91|Vitals=Stable
+SP0943,65,F,1.29,1,N10-N16,General Internal Medicine,19,High,0.0,Stable,0.2561390741863756,37,Acuity=1|Complexity=1.29|Vitals=Stable
+SP0965,24,F,1.11,1,N10-N16,General Internal Medicine,45,Low,0.0,Stable,0.22086112795633722,38,Acuity=1|Complexity=1.11|Vitals=Stable
+SP0933,29,F,1.11,1,O30-O48,General Internal Medicine,1,High,0.0,Stable,0.1863513240347686,39,Acuity=1|Complexity=1.11|Vitals=Stable
+SP0981,33,M,0.7,2,B25-B34,General Internal Medicine,0,Low,0.0,Stable,0.18376288659793813,40,Acuity=2|Complexity=0.7|Vitals=Stable
+SP0902,75,M,0.54,2,D37-D48,General Internal Medicine,28,Low,0.0,Stable,0.15623913482918944,41,Acuity=2|Complexity=0.54|Vitals=Stable
+SP0963,69,F,0.79,1,C81-C96,General Internal Medicine,86,Low,0.0,Stable,0.15404891853648678,42,Acuity=1|Complexity=0.79|Vitals=Stable
+SP0984,74,F,0.94,1,C50,General Internal Medicine,24,Low,0.0,Stable,0.15181322013341417,43,Acuity=1|Complexity=0.94|Vitals=Stable
+SP0992,78,M,0.72,1,C30-C39,General Internal Medicine,24,Low,0.0,Stable,0.08377198302001213,44,Acuity=1|Complexity=0.72|Vitals=Stable
+SP0961,74,F,0.75,1,R25-R29,General Internal Medicine,6,Low,0.0,Stable,0.07893268647665251,45,Acuity=1|Complexity=0.75|Vitals=Stable
+SP0971,38,F,0.67,1,O00-O08,General Internal Medicine,3,Low,0.0,Stable,0.05183747725894482,46,Acuity=1|Complexity=0.67|Vitals=Stable
+SP0998,67,F,0.51,1,D10-D36,General Internal Medicine,17,High,0.0,Stable,0.013333333333333334,47,Acuity=1|Complexity=0.51|Vitals=Stable
+SP0977,81,F,1.21,4,I20-I25,Geriatric Medicine,145,Low,0.0,Stable,0.956578947368421,1,Acuity=4|Complexity=1.21|Vitals=Stable
+SP0931,50,M,0.96,3,I10-I15,Geriatric Medicine,89,Low,0.0,Stable,0.6117954460619635,2,Acuity=3|Complexity=0.96|Vitals=Stable
+SP0990,61,F,0.77,4,R50-R69,Geriatric Medicine,19,Low,0.0,Stable,0.6041713325867861,3,Acuity=4|Complexity=0.77|Vitals=Stable
+SP0920,75,M,1.32,2,I30-I52,Geriatric Medicine,68,Low,0.0,Stable,0.5574468085106383,4,Acuity=2|Complexity=1.32|Vitals=Stable
+SP0968,33,M,0.84,2,I30-I52,Geriatric Medicine,90,High,0.0,Stable,0.3991787980589772,5,Acuity=2|Complexity=0.84|Vitals=Stable
+SP0953,66,M,0.56,3,R50-R69,Geriatric Medicine,4,Low,0.0,Stable,0.3333333333333333,6,Acuity=3|Complexity=0.56|Vitals=Stable
+SP0942,67,M,0.87,2,I26-I28,Geriatric Medicine,14,High,0.0,Stable,0.3032194848824188,7,Acuity=2|Complexity=0.87|Vitals=Stable
+SP0956,22,M,0.7,2,R50-R69,Geriatric Medicine,15,Low,0.0,Stable,0.2375326614408361,8,Acuity=2|Complexity=0.7|Vitals=Stable
+SP0910,84,F,1.13,1,R50-R69,Geriatric Medicine,11,High,0.0,Stable,0.23492907801418433,9,Acuity=1|Complexity=1.13|Vitals=Stable
+SP0973,19,F,0.64,1,I80-I89,Geriatric Medicine,61,Low,0.0,Stable,0.11243001119820828,10,Acuity=1|Complexity=0.64|Vitals=Stable
+SP0982,97,F,1.25,5,H25-H28,Ophthalmology,26,Low,0.0,Stable,0.7975211864406779,1,Acuity=5|Complexity=1.25|Vitals=Stable
+SP0957,64,F,0.77,4,H25-H28,Ophthalmology,297,Low,0.0,Stable,0.6345833333333333,2,Acuity=4|Complexity=0.77|Vitals=Stable
+SP0911,74,M,0.5,5,H30-H36,Ophthalmology,2,Low,0.0,Stable,0.5,3,Acuity=5|Complexity=0.5|Vitals=Stable
+SP0901,100,M,0.62,4,H25-H28,Ophthalmology,21,High,0.0,Stable,0.3912146892655367,4,Acuity=4|Complexity=0.62|Vitals=Stable
+SP0915,86,F,1.3,2,H25-H28,Ophthalmology,8,High,0.0,Stable,0.30406779661016947,5,Acuity=2|Complexity=1.3|Vitals=Stable
+SP0974,5,F,1.42,4,Q80-Q89,Paediatrics,60,Low,0.0,Stable,0.8113636363636364,1,Acuity=4|Complexity=1.42|Vitals=Stable
+SP0986,10,M,0.72,1,Q35-Q37,Paediatrics,890,Low,0.0,Stable,0.2,2,Acuity=1|Complexity=0.72|Vitals=Stable
+SP0906,8,M,0.79,1,P20-P29,Paediatrics,128,Low,0.0,Stable,0.05681818181818185,3,Acuity=1|Complexity=0.79|Vitals=Stable
+SP0993,2,F,0.79,1,P20-P29,Paediatrics,10,High,0.0,Stable,0.030000000000000027,4,Acuity=1|Complexity=0.79|Vitals=Stable
+SP0938,55,M,1.26,5,T80-T88,Trauma and Orthopaedics,131,Low,0.0,Stable,0.8817373461012312,1,Acuity=5|Complexity=1.26|Vitals=Stable
+SP0996,87,F,1.46,5,S70-S79,Trauma and Orthopaedics,59,Low,0.0,Stable,0.8686046511627907,2,Acuity=5|Complexity=1.46|Vitals=Stable
+SP0903,56,M,1.17,5,M00-M25,Trauma and Orthopaedics,146,Low,0.0,Stable,0.8674145006839945,3,Acuity=5|Complexity=1.17|Vitals=Stable
+SP0969,67,F,1.31,5,M40-M54,Trauma and Orthopaedics,66,Low,0.0,Stable,0.8238030095759235,4,Acuity=5|Complexity=1.31|Vitals=Stable
+SP0948,71,M,1.45,4,M00-M25,Trauma and Orthopaedics,55,High,0.0,Stable,0.7354240766073871,5,Acuity=4|Complexity=1.45|Vitals=Stable
+SP0917,87,M,1.06,4,S20-S29,Trauma and Orthopaedics,172,Low,0.0,Stable,0.7338235294117648,6,Acuity=4|Complexity=1.06|Vitals=Stable
+SP0937,54,M,1.18,5,M00-M25,Trauma and Orthopaedics,20,Low,0.0,Stable,0.7244322845417237,7,Acuity=5|Complexity=1.18|Vitals=Stable
+SP0941,64,F,1.41,4,M40-M54,Trauma and Orthopaedics,35,Low,0.0,Stable,0.6980506155950752,8,Acuity=4|Complexity=1.41|Vitals=Stable
+SP0950,30,F,1.29,4,M80-M94,Trauma and Orthopaedics,55,Low,0.0,Stable,0.678953488372093,9,Acuity=4|Complexity=1.29|Vitals=Stable
+SP0987,42,M,1.17,4,S60-S69,Trauma and Orthopaedics,3,Low,0.0,Stable,0.5761354309165526,10,Acuity=4|Complexity=1.17|Vitals=Stable
+SP0985,69,F,1.03,4,M00-M25,Trauma and Orthopaedics,45,High,0.0,Stable,0.5755608755129958,11,Acuity=4|Complexity=1.03|Vitals=Stable
+SP0999,45,F,1.21,3,S80-S89,Trauma and Orthopaedics,5,High,0.0,Stable,0.46757865937072507,12,Acuity=3|Complexity=1.21|Vitals=Stable
+SP0951,25,F,1.01,3,S90-S99,Trauma and Orthopaedics,28,Low,0.0,Stable,0.423734610123119,13,Acuity=3|Complexity=1.01|Vitals=Stable
+SP0964,63,F,1.14,2,M00-M25,Trauma and Orthopaedics,61,High,0.0,Stable,0.3829890560875513,14,Acuity=2|Complexity=1.14|Vitals=Stable
+SP0962,38,M,1.28,1,M60-M79,Trauma and Orthopaedics,96,Low,0.0,Stable,0.3480984952120383,15,Acuity=1|Complexity=1.28|Vitals=Stable
+SP0976,83,F,1.16,2,S50-S59,Trauma and Orthopaedics,1,Low,0.0,Stable,0.32028043775649795,16,Acuity=2|Complexity=1.16|Vitals=Stable
+SP0980,62,M,0.72,2,S80-S89,Trauma and Orthopaedics,113,Low,0.0,Stable,0.29521887824897397,17,Acuity=2|Complexity=0.72|Vitals=Stable
+SP0944,87,M,1.02,1,M60-M79,Trauma and Orthopaedics,122,Low,0.0,Stable,0.2865663474692203,18,Acuity=1|Complexity=1.02|Vitals=Stable
+SP0909,73,M,1.12,1,S50-S59,Trauma and Orthopaedics,7,Low,0.0,Stable,0.18813953488372098,19,Acuity=1|Complexity=1.12|Vitals=Stable
+SP0905,46,F,0.94,1,M80-M94,Trauma and Orthopaedics,39,Low,0.0,Stable,0.16181942544459643,20,Acuity=1|Complexity=0.94|Vitals=Stable
+SP0972,49,M,0.61,1,S00-S09,Trauma and Orthopaedics,0,Low,0.0,Stable,0.0,21,Acuity=1|Complexity=0.61|Vitals=Stable
